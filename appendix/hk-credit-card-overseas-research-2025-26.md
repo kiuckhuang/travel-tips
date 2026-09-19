@@ -95,6 +95,7 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
 **推出時間修正:Travel+ Visa Signature係2024年6月17日推出(恒生新聞稿:[https://www.prnewswire.com/apac/zh/news-releases/-302174084.html](https://www.prnewswire.com/apac/zh/news-releases/-302174084.html) ,2024-06-17),唔係2023年。**
 
 **回贈結構(2026年版,優惠期2026-01-01至12-31,須登記+每曆月合資格零售簽賬滿HK$6,000):**
+
 | 類別 | 回贈(已包括基本0.4%) |
 |---|---|
 | 指定國家/地區**實體店**外幣簽賬:**日本、南韓、泰國、內地、澳門、台灣** | **7% +FUN Dollars** |
@@ -201,6 +202,7 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
 3. **支付寶/微信支付(大陸版)綁國際卡**:綁Visa/Mastercard/JCB/AmEx等國際卡,**單筆≤¥200免手續費;>¥200收交易總額3%**(2023年底起嘅政策,2026年8月仍生效;來源: [https://help.mp.net/zh-TW/articles/15048347](https://help.mp.net/zh-TW/articles/15048347) ,2026-08-13)。→ 大額大陸消費唔好用國際卡綁大陸版錢包。
 4. **港版錢包綁卡北上**:WeChat Pay HK/AlipayHK可以綁香港發行信用卡喺內地商戶支付;**中銀「狂賞飛」2026明確將「綁定中銀信用卡到任何電子錢包(WeChat Pay/AlipayHK)」嘅簽賬納入回贈**(8%/6%內地階段獎賞);建行銀聯雙幣卡有WeChat Pay HK綁卡HK$150獎賞。**但注意**:中銀Cheers 10X、恒生Travel+迎新、CCB各計劃都明文排除Alipay/WeChat渠道簽賬——用電子錢包消費前要對清楚條款。
 5. **淘寶付款手續費表(MoneyHero,2025-01-08, [https://www.moneyhero.com.hk/blog/zh/淘寶付款-方法-手續費比較-信用卡回贈](https://www.moneyhero.com.hk/blog/zh/淘寶付款-方法-手續費比較-信用卡回贈) )**:
+
    | 付款方法 | 淘寶手續費 |
    |---|---|
    | Visa/Mastercard直付 | 3% |
@@ -210,6 +212,7 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
    | AlipayHK + 中銀信用卡 | 1.2% |
    | AlipayHK + 恒生/渣打卡 | 1.3% |
    | AlipayHK + 其他卡 / PPS | 1.5% |
+
    - 經AlipayHK畀淘寶會自動轉港幣,唔會觸發海外手續費。
 
 ---

@@ -230,6 +230,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 ## 七、官方連結一覽(2026-09-19 核實,全部 HTTP 200)
 
 ### 滙豐 HSBC
+
 | 項目 | 連結 |
 |---|---|
 | Visa Signature 產品頁 | [https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-signature/](https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-signature/) |
@@ -242,6 +243,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 | Travel Guru T&C(用戶提供 2026-01-01 / 2026-04-01 版) | 本地存檔:`research/guru_membership_2026.txt`、`research/guru_spend_offer_2026.txt`(原PDF於 attachments) |
 
 ### 恒生 Hang Seng
+
 | 項目 | 連結 |
 |---|---|
 | Travel+ 產品頁(7%官方頁) | [https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/](https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/) |
@@ -249,6 +251,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 | Travel+ 迎新T&C | [https://www.hangseng.com/content/dam/hase/rwd/personal/cards/pdfs/travelplus_welcome_tnc_tc.pdf](https://www.hangseng.com/content/dam/hase/rwd/personal/cards/pdfs/travelplus_welcome_tnc_tc.pdf) |
 
 ### 建行(亞洲) CCB (Asia)
+
 | 項目 | 連結 |
 |---|---|
 | TRAVO 產品頁(10%組合) | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html) |
@@ -257,6 +260,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 | 積分獎賞計劃T&C(15分=1里) | [https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html](https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html) |
 
 ### 中銀 BOC
+
 | 項目 | 連結 |
 |---|---|
 | Cheers 10倍積分T&C | [https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf](https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf) |
@@ -264,18 +268,21 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 | 淘寶World卡T&C(0%手續費) | [https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf](https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf) |
 
 ### 渣打 SCB
+
 | 項目 | 連結 |
 |---|---|
 | 國泰 Mastercard(賺率官方頁) | [https://www.sc.com/hk/zh/credit-cards/cathay/](https://www.sc.com/hk/zh/credit-cards/cathay/) |
 | Smart 卡(免外幣費) | [https://www.sc.com/hk/zh/credit-cards/smart/](https://www.sc.com/hk/zh/credit-cards/smart/) |
 
 ### 花旗 Citibank
+
 | 項目 | 連結 |
 |---|---|
 | PremierMiles 產品頁($3/里) | [https://www.citibank.com.hk/chinese/credit-cards/premiermiles-cards/index.html](https://www.citibank.com.hk/chinese/credit-cards/premiermiles-cards/index.html) |
 | PremierMiles 積分T&C(¥不算外幣條款) | [https://www.citibank.com.hk/chinese/credit-cards/premiermiles-card-tnc/](https://www.citibank.com.hk/chinese/credit-cards/premiermiles-card-tnc/) |
 
 ### 美國運通 Amex / DBS
+
 | 項目 | 連結 |
 |---|---|
 | Explorer 產品頁 | [https://www.americanexpress.com/hk/ch/credit-cards/explorer-credit-card/](https://www.americanexpress.com/hk/ch/credit-cards/explorer-credit-card/) |
@@ -285,6 +292,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 | DBS Black World T&C(PDF) | [https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_double_perks_2026Q1_TnC_EN.pdf](https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_double_perks_2026Q1_TnC_EN.pdf) |
 
 ### 支付/攻略
+
 | 項目 | 連結 |
 |---|---|
 | 雲閃付(銀聯國際,港澳綁卡內地掃碼) | [https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml](https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml) |
