@@ -11,6 +11,7 @@
 | [`appendix/hk-credit-card-overseas-research-2025-26.md`](appendix/hk-credit-card-overseas-research-2025-26.md) | 附錄一:建行(亞洲)/恒生/中銀/銀聯卡詳細研究 |
 | [`appendix/hk-overseas-credit-cards-2025-report.md`](appendix/hk-overseas-credit-cards-2025-report.md) | 附錄二:AE/Citi/DBS/渣打等里數卡詳細研究 |
 | [`appendix/final-report-alipay-wechat-digital-banks-miles-value.md`](appendix/final-report-alipay-wechat-digital-banks-miles-value.md) | 附錄三:支付寶/微信/虛擬銀行/Asia Miles 估值 |
+| [`qatar.md`](qatar.md) | ✈️ Qatar Avios 幫親友換機票 2026 懶人包:My List(4位有會籍)/ Family & Friends(6位池化)新制、30日開名單門檻、6個月鎖定期、Gold/Platinum 豁免 |
 
 ## 📜 條款存檔(`tnc/`)
 
