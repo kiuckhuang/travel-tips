@@ -1,3 +1,7 @@
+---
+title: Qatar Avios 幫親友換機票——2026 懶人包
+---
+
 # ✈️ Qatar Avios 幫親友換機票——2026 最新懶人包（9月14日更新）
 
 > 適用：Qatar Airways Privilege Club（Avios）
@@ -98,12 +102,12 @@
 
 ## 🔗 資料來源
 
-- Qatar 官方 My List 條款：https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/my-list.html
-- Qatar 官方 Family & Friends 條款：https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/family-and-friends.html
-- Qatar 官方 Family & Friends／My List 頁：https://www.qatarairways.com/en/Privilege-Club/family-and-friends.html
-- Qatar 官方 FAQ（搜 My List／Family & Friends）：https://www.qatarairways.com/en/help/faq.html
-- Head for Points（2026-07-21）：https://www.headforpoints.com/2026/07/21/qatar-airways-avios-booking-restrictions/
-- MilesTalk（2026-09-14，含 Qatar 確認字句）：https://milestalk.com/qatar-avios-my-list-restriction-removed/
-- View from the Wing（2026-09-14）：https://viewfromthewing.com/qatar-airways-reverses-restriction-you-can-again-use-credit-card-points-to-book-flights-for-friends-family/
-- Doctor of Credit：https://www.doctorofcredit.com/qatar-adds-restrictions-on-booking-awards-for-friends-family-my-list/
-- AwardWallet（2026-08-08）：https://awardwallet.com/news/airlines/qatar-airways-family-booking-restrictions/
+- Qatar 官方 My List 條款：[https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/my-list.html](https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/my-list.html)
+- Qatar 官方 Family & Friends 條款：[https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/family-and-friends.html](https://www.qatarairways.com/en/Privilege-Club/terms-and-conditions/family-and-friends.html)
+- Qatar 官方 Family & Friends／My List 頁：[https://www.qatarairways.com/en/Privilege-Club/family-and-friends.html](https://www.qatarairways.com/en/Privilege-Club/family-and-friends.html)
+- Qatar 官方 FAQ（搜 My List／Family & Friends）：[https://www.qatarairways.com/en/help/faq.html](https://www.qatarairways.com/en/help/faq.html)
+- Head for Points（2026-07-21）：[https://www.headforpoints.com/2026/07/21/qatar-airways-avios-booking-restrictions/](https://www.headforpoints.com/2026/07/21/qatar-airways-avios-booking-restrictions/)
+- MilesTalk（2026-09-14，含 Qatar 確認字句）：[https://milestalk.com/qatar-avios-my-list-restriction-removed/](https://milestalk.com/qatar-avios-my-list-restriction-removed/)
+- View from the Wing（2026-09-14）：[https://viewfromthewing.com/qatar-airways-reverses-restriction-you-can-again-use-credit-card-points-to-book-flights-for-friends-family/](https://viewfromthewing.com/qatar-airways-reverses-restriction-you-can-again-use-credit-card-points-to-book-flights-for-friends-family/)
+- Doctor of Credit：[https://www.doctorofcredit.com/qatar-adds-restrictions-on-booking-awards-for-friends-family-my-list/](https://www.doctorofcredit.com/qatar-adds-restrictions-on-booking-awards-for-friends-family-my-list/)
+- AwardWallet（2026-08-08）：[https://awardwallet.com/news/airlines/qatar-airways-family-booking-restrictions/](https://awardwallet.com/news/airlines/qatar-airways-family-booking-restrictions/)

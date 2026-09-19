@@ -1,3 +1,7 @@
+---
+title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
+---
+
 # 香港信用卡研究報告:海外簽賬(重點:大陸人民幣/淘寶/支付寶微信 + 日本東南亞)最高回贈卡 2025–2026
 
 **核實日期:2026年9月19日(所有資料以呢日 fetch 到嘅官方網頁/條款為準,每項附來源同「資料日期」)**
@@ -28,10 +32,10 @@
 
 ### 1.1 TRAVO World Mastercard(前身:京東卡,2025年rebrand)/ TRAVO Mastercard
 **資料日期:2026-09-19,官方頁面**
-- 來源:官方產品頁 https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html
-- 京東卡已正式升級為 TRAVO World Mastercard;其他建行(亞洲)萬事達卡(萬事達白金卡、tiramisu白金卡、大灣區虛擬信用卡、Pet Living虛擬卡)已改為 TRAVO Mastercard(同享 TRAVO Rewards)。2025年中完成rebrand(見 https://comedoggies.blogspot.com/2025/07/travo-mastercard-4153.html ,2025-07)。
+- 來源:官方產品頁 [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html)
+- 京東卡已正式升級為 TRAVO World Mastercard;其他建行(亞洲)萬事達卡(萬事達白金卡、tiramisu白金卡、大灣區虛擬信用卡、Pet Living虛擬卡)已改為 TRAVO Mastercard(同享 TRAVO Rewards)。2025年中完成rebrand(見 [https://comedoggies.blogspot.com/2025/07/travo-mastercard-4153.html](https://comedoggies.blogspot.com/2025/07/travo-mastercard-4153.html) ,2025-07)。
 
-**TRAVO Rewards(須經手機/網上銀行登記;推廣期2026-07-01至2026-12-31,官方條款 https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html )**
+**TRAVO Rewards(須經手機/網上銀行登記;推廣期2026-07-01至2026-12-31,官方條款 [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html) )**
 - 海外零售簽賬(誌賬嘅非港幣零售簽賬):**10倍積分(包括基本1X)**,額外9倍於整個推廣期上限**225,000額外積分**——以每HK$1得1基本分計,即約**HK$25,000海外簽賬**食到加碼額(唔設月度門檻)。
 - 本地餐飲:**5倍積分(包括基本)**,額外4倍上限**50,000額外積分**(≈HK$12,500簽賬)。
 - 換算(官方「積分獎賞計劃」):**每HK$1(或¥1)=1積分**;**每15積分=1亞洲萬里通里數**;現金回贈按每**250積分=HK$1**(Eye卡條款註明25,000分=HK$100;銀聯雙幣卡條款250分=HK$1/¥1)。
@@ -43,15 +47,15 @@
 - 里數兌換手續費:每次首10,000里HK$100,之後每5,000里HK$50,每次上限HK$300(官方條款15–17條)。
 
 **其他官方加碼(2026-09-19官方頁)**
-- 「飛」常賞您・禮遇續航(登記制,2026-09-01至10-31,首4,000名):海外零售簽賬(單筆≥HK$300)滿HK$4,000–7,999享**4%**、滿HK$8,000或以上享**6%**,上限HK$500;另有銀聯信用卡專享:海外簽賬滿HK$10,000 額外**HK$100** + **0元海外手續費**(慳1.95%)。官方: https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/promotions/overseas_spending/index.html (呢類「海外簽賬獎賞計劃」建行常年分期推出,2025年亦有同類計劃)
+- 「飛」常賞您・禮遇續航(登記制,2026-09-01至10-31,首4,000名):海外零售簽賬(單筆≥HK$300)滿HK$4,000–7,999享**4%**、滿HK$8,000或以上享**6%**,上限HK$500;另有銀聯信用卡專享:海外簽賬滿HK$10,000 額外**HK$100** + **0元海外手續費**(慳1.95%)。官方: [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/promotions/overseas_spending/index.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/promotions/overseas_spending/index.html) (呢類「海外簽賬獎賞計劃」建行常年分期推出,2025年亦有同類計劃)
 - TRAVO World 專享:指定海外商戶(迪士尼樂園/環球影城、美團等)消費**高達15%現金回贈**(官方頁註6、7;World卡專享)。
 - Expedia優惠碼「TRAVO15」:酒店即時折扣高達HK$500。
 - 迎新:HK$600(發卡首2個月簽滿HK$6,000)或HK$800(同時申請「Chill分期」≥HK$15,000)。
-- **年費:永久免年費**(第三方比較:https://pickcardrebate.com/cards/ccb-travo ,2026年讀取:「海外4%(半年簽上限$25,000)、餐飲2%(半年簽上限$12,500)、永久免年費、無簽賬門檻」——同官方225,000/50,000額外積分上限一致)。
+- **年費:永久免年費**(第三方比較:[https://pickcardrebate.com/cards/ccb-travo](https://pickcardrebate.com/cards/ccb-travo) ,2026年讀取:「海外4%(半年簽上限$25,000)、餐飲2%(半年簽上限$12,500)、永久免年費、無簽賬門檻」——同官方225,000/50,000額外積分上限一致)。
 - **注意:TRAVO係Mastercard,海外簽賬仍收約1.95%外幣折算費+海外交易手續費**(官方條款第5b條列明計法),名義4%/HK$1.5里係「未扣手續費」。
 
 ### 1.2 eye Visa Signature 信用卡
-**資料日期:2026-09-19,官方頁 https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html + 額外積分條款(2026-07-20生效版) https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_extra_bp_rewards.html**
+**資料日期:2026-09-19,官方頁 [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html) + 額外積分條款(2026-07-20生效版) [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_extra_bp_rewards.html**](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_extra_bp_rewards.html**)
 - **網購 + 拍卡支付(Visa payWave/Apple Pay/Google Pay):5X積分 = 2%現金回贈 或 HK$3=1里,無須登記**;額外4倍積分推廣期(2026-01-01至09-30)上限**300,000額外積分**(≈HK$75,000簽賬,即呢個加碼額內合共最多約25,000里)。「網上零售交易」無地域限制,海外網購都計。
 - 本地餐飲/外賣平台/交通:每月登記,2026-07-01至09-30分3階段:月零售滿HK$5,000且該類淨額滿HK$500 → (B)9% +(A)2% = **11%**;未達 → 4%;**每階段回贈上限HK$400**。電子錢包(AlipayHK/PayMe/WeChat Pay HK)交易完全唔計。
 - 積分換現金:25,000分=HK$100(250分=HK$1);換里數:**15分=1里**(Visa Signature屬可換里數卡種,官方積分獎賞計劃條款第16條)。
@@ -60,12 +64,12 @@
 - 參考:hkcashrebate.com/ccba-eye、pickcardrebate.com/cards/ccb-eye(「網購/payWave 2%(年簽上限$75,000)」)、mrmiles.hk/ccb-eye-card-asia-miles(「網購/PayMe $3=1里」——留意官方最新條款已將電子錢包渠道排除,PayMe增值唔計分)。
 
 ### 1.3 建行(亞洲)銀聯雙幣信用卡(白金卡/鑽石卡/Prestige/八達通/培正等)
-**資料日期:2026-09-19,官方頁 https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/cup_dual_currency.html**
+**資料日期:2026-09-19,官方頁 [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/cup_dual_currency.html**](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/cup_dual_currency.html**)
 - **北上或海外簽賬全年HK$0手續費**(官方明示豁免約1.95%海外簽賬手續費;例子:¥10,000黃金手鐲慳HK$221)。
 - 一卡雙幣:**內地簽賬以人民幣結算;香港/海外以港幣結算**;支援QuickPass拍卡(≤HK$1,000/¥1,000免簽名)、龍支付HK、**雲閃付App綁卡**。
-- 積分(官方頁+積分獎賞計劃條款 https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html ,2026-01-01生效):**每HK$1/¥1=1分;每250分=HK$1或¥1現金回贈(=0.4%),申請時自選港幣或人民幣回贈,回贈不設上限**;或**15分=1亞洲萬里通里數**(銀聯雙幣白金信用卡屬可換里數卡)。
+- 積分(官方頁+積分獎賞計劃條款 [https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html](https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html) ,2026-01-01生效):**每HK$1/¥1=1分;每250分=HK$1或¥1現金回贈(=0.4%),申請時自選港幣或人民幣回贈,回贈不設上限**;或**15分=1亞洲萬里通里數**(銀聯雙幣白金信用卡屬可換里數卡)。
 - 迎新:HK$300(首2個月簽滿HK$6,000)或HK$800(分期計劃≥HK$15,000)。
-- **銀聯鑽石Prestige信用卡(高端邀請制)**:200分=HK$1(**0.5%**)、**8分=1里(HK$8=1里)**、積分永久有效(官方條款14(ii)/16條;介紹:https://miss-card.com/建行亞洲銀聯鑽石prestige信用卡好唔好/ )。
+- **銀聯鑽石Prestige信用卡(高端邀請制)**:200分=HK$1(**0.5%**)、**8分=1里(HK$8=1里)**、積分永久有效(官方條款14(ii)/16條;介紹:[https://miss-card.com/建行亞洲銀聯鑽石prestige信用卡好唔好/](https://miss-card.com/建行亞洲銀聯鑽石prestige信用卡好唔好/) )。
 - 額外著數:「飛」常賞您計劃入面,建行銀聯卡海外簽賬滿HK$10,000有額外HK$100+0%手續費;WeChat Pay HK綁卡消費有高達HK$150獎賞(官方cup頁)。
 - 第三方評價(miss-card.com〈建行銀聯雙幣信用卡好唔好〉,2026):0%手續費係賣點,但0.4%基本回贈偏低;edigest.hk 2026年評價同樣指「海外簽賬全年HK$0手續費」係核心價值。
 
@@ -86,9 +90,9 @@
 ## 2. 恒生銀行 Hang Seng
 
 ### 2.1 Travel+ Visa Signature 卡
-**資料日期:2026-09-19;官方頁 https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/ ;官方+FUN Dollars獎賞計劃條款PDF https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_sc.pdf**
+**資料日期:2026-09-19;官方頁 [https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/](https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/) ;官方+FUN Dollars獎賞計劃條款PDF [https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_sc.pdf**](https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_sc.pdf**)
 
-**推出時間修正:Travel+ Visa Signature係2024年6月17日推出(恒生新聞稿:https://www.prnewswire.com/apac/zh/news-releases/-302174084.html ,2024-06-17),唔係2023年。**
+**推出時間修正:Travel+ Visa Signature係2024年6月17日推出(恒生新聞稿:[https://www.prnewswire.com/apac/zh/news-releases/-302174084.html](https://www.prnewswire.com/apac/zh/news-releases/-302174084.html) ,2024-06-17),唔係2023年。**
 
 **回贈結構(2026年版,優惠期2026-01-01至12-31,須登記+每曆月合資格零售簽賬滿HK$6,000):**
 | 類別 | 回贈(已包括基本0.4%) |
@@ -108,7 +112,7 @@
 - **每年額外回贈天花板 ≈ HK$6,000(12×$500)**+基本0.4%無上限。
 - 基本0.4%:簽賬每HK$250 = $1 +FUN Dollar;+FUN Dollar = HK$1,可抵銷簽賬,最長24個月有效。
 
-**年費/入息:** 主卡及附屬卡**永久免年費**(官方頁+MoneyHero);最低年薪**HK$150,000**(每月HK$12,500)(官方/MoneyHero https://www.moneyhero.com.hk/zh/credit-card/products/hang-seng-travel-visa-signature-card )。
+**年費/入息:** 主卡及附屬卡**永久免年費**(官方頁+MoneyHero);最低年薪**HK$150,000**(每月HK$12,500)(官方/MoneyHero [https://www.moneyhero.com.hk/zh/credit-card/products/hang-seng-travel-visa-signature-card](https://www.moneyhero.com.hk/zh/credit-card/products/hang-seng-travel-visa-signature-card) )。
 **迎新:** 新客700 +FUN(發卡60日內簽滿HK$5,000;2026年再加碼餐飲迎新$1,200);現有客300 +FUN。
 **重要魔鬼細節:**
 - **無外幣手續費豁免——1.95%海外交易手續費照收**(talkmoney 2025-08明確指出),即名義7%實收約5%。
@@ -117,15 +121,15 @@
 - 迎新冷河12個月;開戶13個月內cut卡要回扣迎新。
 
 ### 2.2 恒生其他卡嘅海外回贈
-- **恒生MMPOWER World Mastercard**(官方T&C PDF https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/everyday_tnc_tc.pdf ,2026讀取):指定商戶(**Amazon、GU、lululemon、淘寶、Uniqlo**,網上或香港實體)**8%**,每月額外上限$500 +FUN;網上娛樂(串流/戲院/售票)+網上服飾8%;其他網上零售5%;**實體店外幣簽賬4%**(香港以外實體店外幣)。排除Alipay及WeChat之簽賬。→ 適合**海外/淘寶網購**,實體海外得4%(都要俾1.95%費)。MoneyHero列「高達8% +FUN Dollars、永久免年費、年薪HK$150,000」。
-- **恒生Visa Signature / enJoy卡**:冇海外簽賬加倍——恒生卡基本回贈一律0.4%($250=$1 +FUN);enJoy係yuu積分卡(美心/惠康/7-11等本地消費2 yuu積分/HK$),海外實體簽賬無加碼。→ 海外消費唔使考慮呢兩張。(來源:talkmoney Travel+文內基本回贈說明;enJoy yuu條款 https://www.hangseng.com/content/dam/hase/config/personal/cards/mgm/pdfs/tc/enjoy-yuu_TnC_TC.pdf )
+- **恒生MMPOWER World Mastercard**(官方T&C PDF [https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/everyday_tnc_tc.pdf](https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/everyday_tnc_tc.pdf) ,2026讀取):指定商戶(**Amazon、GU、lululemon、淘寶、Uniqlo**,網上或香港實體)**8%**,每月額外上限$500 +FUN;網上娛樂(串流/戲院/售票)+網上服飾8%;其他網上零售5%;**實體店外幣簽賬4%**(香港以外實體店外幣)。排除Alipay及WeChat之簽賬。→ 適合**海外/淘寶網購**,實體海外得4%(都要俾1.95%費)。MoneyHero列「高達8% +FUN Dollars、永久免年費、年薪HK$150,000」。
+- **恒生Visa Signature / enJoy卡**:冇海外簽賬加倍——恒生卡基本回贈一律0.4%($250=$1 +FUN);enJoy係yuu積分卡(美心/惠康/7-11等本地消費2 yuu積分/HK$),海外實體簽賬無加碼。→ 海外消費唔使考慮呢兩張。(來源:talkmoney Travel+文內基本回贈說明;enJoy yuu條款 [https://www.hangseng.com/content/dam/hase/config/personal/cards/mgm/pdfs/tc/enjoy-yuu_TnC_TC.pdf](https://www.hangseng.com/content/dam/hase/config/personal/cards/mgm/pdfs/tc/enjoy-yuu_TnC_TC.pdf) )
 
 ---
 
 ## 3. 中銀香港 BOC
 
 ### 3.1 中銀銀聯雙幣卡 —— 「中銀Go卡」(前稱:中銀雙幣卡〈大灣區一卡通〉;2026年改名)
-**資料日期:2026-09-19;官方:中銀Go卡指定手機簽賬20X積分 https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html ;Go商戶 https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html ;第三方整理:mrmiles.hk/boc-unionpay/ (2026-08-21)**
+**資料日期:2026-09-19;官方:中銀Go卡指定手機簽賬20X積分 [https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html](https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html) ;Go商戶 [https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html](https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html) ;第三方整理:mrmiles.hk/boc-unionpay/ (2026-08-21)**
 
 - **一卡雙幣:內地簽賬人民幣結算,香港/海外港幣結算;人民幣簽賬免手續費;可以用人民幣找卡數**;可直接拍卡搭廣州地鐵等大灣區交通;支援跨境繳費。
 - **永久免年費;年薪要求HK$200,000**(mrmiles 2026-08)。
@@ -137,17 +141,17 @@
   - 海外手機支付:鑽石3X(1.2%)/白金2X(0.8%)。
   - 海外簽賬(非手機):**2X=0.8%,無上限(人民幣簽賬唔計)**。
   - 日常/網上/自動轉賬/八達通自動增值/分期:0.4%。
-- 舊稱「中銀雙幣鑽石卡/白金卡〈大灣區一卡通〉」2025年曾有「手機支付4%/2%回贈」推廣(2025-04-01至05-31,每月上限HK$100;官方T&C https://www.boci.com.hk/pdf/chi/card/gba_TnC.pdf )——即係而家20X/10X計劃嘅前身。
+- 舊稱「中銀雙幣鑽石卡/白金卡〈大灣區一卡通〉」2025年曾有「手機支付4%/2%回贈」推廣(2025-04-01至05-31,每月上限HK$100;官方T&C [https://www.boci.com.hk/pdf/chi/card/gba_TnC.pdf](https://www.boci.com.hk/pdf/chi/card/gba_TnC.pdf) )——即係而家20X/10X計劃嘅前身。
 
 ### 3.2 中銀銀聯雙幣鑽石卡(金屬版,只供獲邀請)
-**資料日期:2026-09-19,官方頁 https://www.bochk.com/tc/creditcard/details/boccreditcard/dd_rmb.html**
+**資料日期:2026-09-19,官方頁 [https://www.bochk.com/tc/creditcard/details/boccreditcard/dd_rmb.html**](https://www.bochk.com/tc/creditcard/details/boccreditcard/dd_rmb.html**)
 - **主卡及附屬卡永久豁免年費**;迎新:手機零售簽賬10%現金回贈(上限HK$300)。
 - **本地簽賬3X積分(當月總簽賬≥HK$15,000時)= 1.2%現金回贈等值,不設上限**。
 - 每HK$1/¥1=1分;內地人民幣結算;QuickPass拍卡。
 - 註:呢張同「Go卡銀聯鑽石」係唔同產品線;金屬版係受邀高端卡。
 
 ### 3.3 中銀Cheers Card(Visa Infinite / Visa Signature)——外幣+餐飲神卡
-**資料日期:2026-09-19;官方條款 https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf ;整理:mrmiles.hk/boc-cheers/ (2026-08-21)**
+**資料日期:2026-09-19;官方條款 [https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf](https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf) ;整理:mrmiles.hk/boc-cheers/ (2026-08-21)**
 - **餐飲/外幣零售/寵物生活簽賬:Visa Infinite 10X積分 = 4% 或 HK$1.5=1里;Visa Signature 8X = 3.2%等值。**(推廣至2026-12-31;**須每月累積簽賬滿HK$5,000**)
 - 月度上限:Infinite 300,000積分(**外幣零售首HK$25,000/月享10X**、餐飲/寵物首HK$10,000/月);Signature 180,000分(外幣首HK$18,750)。總外幣加碼額=每年HK$300,000×4季…準確講:每月外幣250,000分上限內,即HK$25,000×10倍。
 - **積分優惠不適用於AlipayHK及WeChat Pay HK簽賬**;豁免里數兌換手續費;迎新:Infinite 30萬分(=$1,200/20,000里)、Signature 22.5萬分($900/15,000里,中銀理財客戶加碼)。
@@ -156,18 +160,18 @@
 - **注意:外幣簽賬仍受中銀Visa一般約1.95%海外交易手續費影響**(名義4%扣費後約2%);基本回贈0.4%/HK$15=1里(15分=1里)。
 
 ### 3.4 中銀淘寶World萬事達卡
-**資料日期:2026-09-19;整理:mrmiles.hk/boc-taobao-mastercard/ (2026-05-01)+ 官方條款 https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf**
+**資料日期:2026-09-19;整理:mrmiles.hk/boc-taobao-mastercard/ (2026-05-01)+ 官方條款 [https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf**](https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf**)
 - **淘寶0%手續費:365日、無上限**(須以「手機淘寶」App用卡付款,或經AlipayHK綁此卡付款;幣種設置HKD;唔適用於閒魚/非實物商品訂單)。
 - **海外簽賬(實體+網上)0%手續費**——mrmiles稱「全港唯一Mastercard免海外簽賬手續費」;即Netflix/Amazon外幣月費都免費換匯。
 - 回贈:全部類別基本0.4%;**永久免年費;年薪HK$150,000**;迎新手機簽賬10%(上限HK$300,至2026-12-31)。
 
 ### 3.5 中銀「全年消費回贈」/簽賬得FUN 賺率;海外簽賬計唔計特別回贈?
-- **基本賺率(適用所有中銀卡,經BOC Card/BoC Pay+):每HK$1=1分;250分=HK$1現金回贈→0.4%;持卡11年或以上8折=0.5%。**(官方「簽賬得FUN」條款 https://www.bochk.com/creditcard/chi/rewards/rewards_tnc.html )
+- **基本賺率(適用所有中銀卡,經BOC Card/BoC Pay+):每HK$1=1分;250分=HK$1現金回贈→0.4%;持卡11年或以上8折=0.5%。**(官方「簽賬得FUN」條款 [https://www.bochk.com/creditcard/chi/rewards/rewards_tnc.html](https://www.bochk.com/creditcard/chi/rewards/rewards_tnc.html) )
 - **「狂賞派」2026(中銀Visa卡,推廣期2026-07-01至12-31,需登記)**:本地實體店7大類別平日額外2%/紅日(星期日及公眾假期)額外5%(月上限平日$120/紅日$300,單筆≥HK$500,月簽滿HK$5,000);**網購**6大類別平日2%(月上限$60)/紅日5%(月上限$200)。→ **呢個係本地+網購計劃;海外簽賬唔入「狂賞派」**。
 - **「狂賞飛」2026(海外版,先登記,登記期2026-07-01至08-31)**:
   - **中國內地及澳門簽賬每階段滿HK$5,000:中銀銀聯雙幣卡8%、中銀Visa/MC 6%(每階段回贈上限HK$300)**
   - 其他國家簽賬每階段滿HK$10,000:銀聯雙幣卡5%、Visa/MC 3%(每階段上限HK$300)
-  - 階段:2026-07-01~09-30;2026-10-01~12-31。**2026年新加:綁定中銀信用卡到任何電子錢包(包括WeChat Pay、AlipayHK)簽賬都計!**(來源:mrmiles.hk/boc-promo/ 2026-09-01更新;官方條款 https://www.bochk.com/dam/boccreditcard/mf_2h26/tnc_tc.pdf )
+  - 階段:2026-07-01~09-30;2026-10-01~12-31。**2026年新加:綁定中銀信用卡到任何電子錢包(包括WeChat Pay、AlipayHK)簽賬都計!**(來源:mrmiles.hk/boc-promo/ 2026-09-01更新;官方條款 [https://www.bochk.com/dam/boccreditcard/mf_2h26/tnc_tc.pdf](https://www.bochk.com/dam/boccreditcard/mf_2h26/tnc_tc.pdf) )
 - **結論:海外簽賬計特別回贈,但係靠「狂賞飛」呢類登記制推廣(每階段上限HK$300,約HK$3,750–6,000簽賬食滿),唔係常年高賺率;常年只有銀聯雙幣卡0.8%或Cheers 4%(外幣,月簽HK$5,000門檻)。**
 
 ### 3.6 補充:中銀Bliss Card(2026新網購卡)
@@ -179,12 +183,12 @@
 
 | 銀行/卡 | 人民幣/海外優勢 | 來源(資料日期2026-09-19) |
 |---|---|---|
-| **工銀雙幣信用卡–銀聯鑽石卡** | 內地人民幣結算+港/海外港幣;**豁免海外簽賬手續費**;現金回贈0.5%(港幣人民幣合併計算,¥1:1折算)或1分/HK$1 | https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-unionpay-dual-currency-diamond-card.html |
-| **工銀粵港澳灣區雙幣信用卡(銀聯鑽石卡)** | 本地及海外**3倍獎賞=1.5%現金回贈,不設上限**;豁免海外簽賬手續費 | https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-greater-bay-area-credit-cards.html |
-| 工銀聯合出版雙幣卡(銀聯鑽石) | 本地及海外1.5%無上限(白金版1%);豁免海外手續費 | https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-sup-credit-card.html |
-| 工銀財富雙幣卡(財富客戶) | 本地及海外**2%現金回贈(4倍積分)**,每月自動兌換;豁免海外手續費 | https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-wise-gold-world-mastercard.html |
-| **招商永隆銀聯雙幣白金卡** | 豁免海外簽賬手續費;豁免首五年年費;內地人民幣結算;迎新HK$200 | https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/wing-lung-cup-dual-currency-platinum-card/index.html |
-| **大新銀聯雙幣信用卡** | 免中國及海外簽賬手續費;一卡雙幣;年薪HK$150,000;MoneySmart指銀聯匯率較大新Visa/MC優約0.65%,合共慳約1.3% | https://www.dahsing.com/html/tc/credit_card/card_products/generic/unionpay_dual_currency_card.html ; https://www.moneysmart.hk/zh-hk/credit-cards/dah-sing-bank/travel-overseas-spending |
+| **工銀雙幣信用卡–銀聯鑽石卡** | 內地人民幣結算+港/海外港幣;**豁免海外簽賬手續費**;現金回贈0.5%(港幣人民幣合併計算,¥1:1折算)或1分/HK$1 | [https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-unionpay-dual-currency-diamond-card.html](https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-unionpay-dual-currency-diamond-card.html) |
+| **工銀粵港澳灣區雙幣信用卡(銀聯鑽石卡)** | 本地及海外**3倍獎賞=1.5%現金回贈,不設上限**;豁免海外簽賬手續費 | [https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-greater-bay-area-credit-cards.html](https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-greater-bay-area-credit-cards.html) |
+| 工銀聯合出版雙幣卡(銀聯鑽石) | 本地及海外1.5%無上限(白金版1%);豁免海外手續費 | [https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-sup-credit-card.html](https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-sup-credit-card.html) |
+| 工銀財富雙幣卡(財富客戶) | 本地及海外**2%現金回贈(4倍積分)**,每月自動兌換;豁免海外手續費 | [https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-wise-gold-world-mastercard.html](https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-wise-gold-world-mastercard.html) |
+| **招商永隆銀聯雙幣白金卡** | 豁免海外簽賬手續費;豁免首五年年費;內地人民幣結算;迎新HK$200 | [https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/wing-lung-cup-dual-currency-platinum-card/index.html](https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/wing-lung-cup-dual-currency-platinum-card/index.html) |
+| **大新銀聯雙幣信用卡** | 免中國及海外簽賬手續費;一卡雙幣;年薪HK$150,000;MoneySmart指銀聯匯率較大新Visa/MC優約0.65%,合共慳約1.3% | [https://www.dahsing.com/html/tc/credit_card/card_products/generic/unionpay_dual_currency_card.html](https://www.dahsing.com/html/tc/credit_card/card_products/generic/unionpay_dual_currency_card.html) ; [https://www.moneysmart.hk/zh-hk/credit-cards/dah-sing-bank/travel-overseas-spending](https://www.moneysmart.hk/zh-hk/credit-cards/dah-sing-bank/travel-overseas-spending) |
 
 簡評:呢批卡共同優勢係「人民幣結算+0%手續費+港幣人民幣雙賬戶」,但簽賬賺率普遍0.5%–1.5%,冇中銀Go卡嗰種大陸手機支付倍乘;工銀大灣區鑽石卡1.5%無上限係「免手續費+中高回贈」嘅穩陣選擇。
 
@@ -193,10 +197,10 @@
 ## 5. 銀聯(UnionPay)網絡喺大陸消費嘅優勢
 
 1. **直接人民幣結算、免轉換費**:香港發行銀聯雙幣卡(中銀Go、建行銀聯雙幣、工銀、招商永隆、大新)內地簽賬直接入人民幣賬戶,**冇Visa/MC嗰1.95%海外交易手續費**(各行官方頁,見上文連結)。大新案例(MoneySmart):銀聯折算匯率普遍比Visa/MC抵約0.65%,即總成本慳約1.3%。
-2. **雲閃付App(UnionPay App)**:港澳居民下載雲閃付App並綁定本地發行銀聯卡,即可喺內地+港澳掃碼及In-App支付(境內碼/境外碼自動切換);中銀、交銀(香港)等先支援,覆蓋逐步擴大。中銀Go卡經雲閃付簽賬有20X積分(8%);建行銀聯雙幣卡官方明確支援雲閃付綁卡。(銀聯國際官方: https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml ;建行cup頁)
-3. **支付寶/微信支付(大陸版)綁國際卡**:綁Visa/Mastercard/JCB/AmEx等國際卡,**單筆≤¥200免手續費;>¥200收交易總額3%**(2023年底起嘅政策,2026年8月仍生效;來源: https://help.mp.net/zh-TW/articles/15048347 ,2026-08-13)。→ 大額大陸消費唔好用國際卡綁大陸版錢包。
+2. **雲閃付App(UnionPay App)**:港澳居民下載雲閃付App並綁定本地發行銀聯卡,即可喺內地+港澳掃碼及In-App支付(境內碼/境外碼自動切換);中銀、交銀(香港)等先支援,覆蓋逐步擴大。中銀Go卡經雲閃付簽賬有20X積分(8%);建行銀聯雙幣卡官方明確支援雲閃付綁卡。(銀聯國際官方: [https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml](https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml) ;建行cup頁)
+3. **支付寶/微信支付(大陸版)綁國際卡**:綁Visa/Mastercard/JCB/AmEx等國際卡,**單筆≤¥200免手續費;>¥200收交易總額3%**(2023年底起嘅政策,2026年8月仍生效;來源: [https://help.mp.net/zh-TW/articles/15048347](https://help.mp.net/zh-TW/articles/15048347) ,2026-08-13)。→ 大額大陸消費唔好用國際卡綁大陸版錢包。
 4. **港版錢包綁卡北上**:WeChat Pay HK/AlipayHK可以綁香港發行信用卡喺內地商戶支付;**中銀「狂賞飛」2026明確將「綁定中銀信用卡到任何電子錢包(WeChat Pay/AlipayHK)」嘅簽賬納入回贈**(8%/6%內地階段獎賞);建行銀聯雙幣卡有WeChat Pay HK綁卡HK$150獎賞。**但注意**:中銀Cheers 10X、恒生Travel+迎新、CCB各計劃都明文排除Alipay/WeChat渠道簽賬——用電子錢包消費前要對清楚條款。
-5. **淘寶付款手續費表(MoneyHero,2025-01-08, https://www.moneyhero.com.hk/blog/zh/淘寶付款-方法-手續費比較-信用卡回贈 )**:
+5. **淘寶付款手續費表(MoneyHero,2025-01-08, [https://www.moneyhero.com.hk/blog/zh/淘寶付款-方法-手續費比較-信用卡回贈](https://www.moneyhero.com.hk/blog/zh/淘寶付款-方法-手續費比較-信用卡回贈) )**:
    | 付款方法 | 淘寶手續費 |
    |---|---|
    | Visa/Mastercard直付 | 3% |
@@ -223,39 +227,39 @@
 ## 7. 參考連結(全部於2026-09-19讀取)
 
 **官方**
-- 建行(亞洲)TRAVO:https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html
-- TRAVO Rewards條款:https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html
-- 「飛」常賞您:https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/promotions/overseas_spending/index.html
-- 建行積分獎賞計劃(2026-01-01生效):https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html
-- 建行eye卡:https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html ;額外積分條款:https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_extra_bp_rewards.html
-- 建行銀聯雙幣卡:https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/cup_dual_currency.html
-- 恒生Travel+:https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/ ;T&C PDF:https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_sc.pdf ;迎新條款:https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_welcome_tnc_tc.pdf
-- 恒生MMPOWER T&C:https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/everyday_tnc_tc.pdf
-- 恒生Travel+推出新聞稿(2024-06-17):https://www.prnewswire.com/apac/zh/news-releases/-302174084.html
-- 中銀Go卡20X:https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html ;Go商戶:https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html
-- 中銀銀聯雙幣鑽石卡(金屬):https://www.bochk.com/tc/creditcard/details/boccreditcard/dd_rmb.html
-- 中銀「簽賬得FUN」:https://www.bochk.com/creditcard/chi/rewards/rewards_tnc.html
-- 中銀淘寶卡條款:https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf
-- 中銀狂賞飛條款:https://www.bochk.com/dam/boccreditcard/mf_2h26/tnc_tc.pdf ;狂賞派:https://www.bochk.com/dam/boccreditcard/ms_2h26v/tnc_tc.pdf
-- 中銀雙幣卡收費表:https://www.boci.com.hk/bocci/agt/c_BOC_DC_fees_schedule.pdf ;大灣區一卡通手機簽賬T&C(2025):https://www.boci.com.hk/pdf/chi/card/gba_TnC.pdf
+- 建行(亞洲)TRAVO:[https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html)
+- TRAVO Rewards條款:[https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html)
+- 「飛」常賞您:[https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/promotions/overseas_spending/index.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/promotions/overseas_spending/index.html)
+- 建行積分獎賞計劃(2026-01-01生效):[https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html](https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html)
+- 建行eye卡:[https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html) ;額外積分條款:[https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_extra_bp_rewards.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_extra_bp_rewards.html)
+- 建行銀聯雙幣卡:[https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/cup_dual_currency.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/cup_dual_currency.html)
+- 恒生Travel+:[https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/](https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/) ;T&C PDF:[https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_sc.pdf](https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_sc.pdf) ;迎新條款:[https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_welcome_tnc_tc.pdf](https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/travelplus_welcome_tnc_tc.pdf)
+- 恒生MMPOWER T&C:[https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/everyday_tnc_tc.pdf](https://www.hangseng.com/content/dam/wpb/hase/rwd/personal/cards/pdfs/everyday_tnc_tc.pdf)
+- 恒生Travel+推出新聞稿(2024-06-17):[https://www.prnewswire.com/apac/zh/news-releases/-302174084.html](https://www.prnewswire.com/apac/zh/news-releases/-302174084.html)
+- 中銀Go卡20X:[https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html](https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html) ;Go商戶:[https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html](https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html)
+- 中銀銀聯雙幣鑽石卡(金屬):[https://www.bochk.com/tc/creditcard/details/boccreditcard/dd_rmb.html](https://www.bochk.com/tc/creditcard/details/boccreditcard/dd_rmb.html)
+- 中銀「簽賬得FUN」:[https://www.bochk.com/creditcard/chi/rewards/rewards_tnc.html](https://www.bochk.com/creditcard/chi/rewards/rewards_tnc.html)
+- 中銀淘寶卡條款:[https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf](https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf)
+- 中銀狂賞飛條款:[https://www.bochk.com/dam/boccreditcard/mf_2h26/tnc_tc.pdf](https://www.bochk.com/dam/boccreditcard/mf_2h26/tnc_tc.pdf) ;狂賞派:[https://www.bochk.com/dam/boccreditcard/ms_2h26v/tnc_tc.pdf](https://www.bochk.com/dam/boccreditcard/ms_2h26v/tnc_tc.pdf)
+- 中銀雙幣卡收費表:[https://www.boci.com.hk/bocci/agt/c_BOC_DC_fees_schedule.pdf](https://www.boci.com.hk/bocci/agt/c_BOC_DC_fees_schedule.pdf) ;大灣區一卡通手機簽賬T&C(2025):[https://www.boci.com.hk/pdf/chi/card/gba_TnC.pdf](https://www.boci.com.hk/pdf/chi/card/gba_TnC.pdf)
 - 工銀亞洲(三個產品頁,見第4節表)
-- 招商永隆銀聯雙幣白金卡:https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/wing-lung-cup-dual-currency-platinum-card/index.html
-- 大新銀聯雙幣卡:https://www.dahsing.com/html/tc/credit_card/card_products/generic/unionpay_dual_currency_card.html
-- 銀聯國際雲閃付App:https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml
+- 招商永隆銀聯雙幣白金卡:[https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/wing-lung-cup-dual-currency-platinum-card/index.html](https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/wing-lung-cup-dual-currency-platinum-card/index.html)
+- 大新銀聯雙幣卡:[https://www.dahsing.com/html/tc/credit_card/card_products/generic/unionpay_dual_currency_card.html](https://www.dahsing.com/html/tc/credit_card/card_products/generic/unionpay_dual_currency_card.html)
+- 銀聯國際雲閃付App:[https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml](https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml)
 
 **第三方/媒體**
-- MoneyHero 淘寶付款手續費(2025-01-08):https://www.moneyhero.com.hk/blog/zh/淘寶付款-方法-手續費比較-信用卡回贈
-- MoneyHero 恒生Travel+產品頁:https://www.moneyhero.com.hk/zh/credit-card/products/hang-seng-travel-visa-signature-card
-- MoneyHero 恒生卡比較(2026):https://www.moneyhero.com.hk/zh/credit-card/provider/hang-seng
-- Talk Money Travel+攻略(2025-08-29更新):https://talkmoney.com.hk/恒生travel-visa-signature信用卡好唔好/
-- 里先生Mr. Miles:中銀優惠合集(2026-09-01)/Go卡(2026-08-21)/Cheers(2026-08-21)/淘寶卡(2026-05-01)/CCB TRAVO及eye:https://www.mrmiles.hk/boc-promo/ 、https://www.mrmiles.hk/boc-unionpay/ 、https://www.mrmiles.hk/boc-cheers/ 、https://www.mrmiles.hk/boc-taobao-mastercard/ 、https://www.mrmiles.hk/ccb-travo/ 、https://www.mrmiles.hk/ccb-eye-card-asia-miles/
-- hkcashrebate / pickcardrebate TRAVO、eye:https://hkcashrebate.com/ccba-travo 、https://pickcardrebate.com/cards/ccb-travo 、https://pickcardrebate.com/cards/ccb-eye
-- Miss Card:建行銀聯雙幣評測、銀聯鑽石Prestige評測:https://miss-card.com/建行銀聯雙幣信用卡好唔好/
-- MoneySmart 大新海外卡比較:https://www.moneysmart.hk/zh-hk/credit-cards/dah-sing-bank/travel-overseas-spending ;銀聯鑽石卡比較:https://blog.moneysmart.hk/zh-hk/credit-cards/銀聯-雙幣-鑽石卡-揀邊張好-2018/
-- 经济一周edigest 建行銀聯雙幣評價:https://www.edigest.hk/理財/建行銀聯雙幣信用卡評價-2039102/
-- x-income CCB TRAVO:https://x-income.com/ccbtravomastercard/
-- MP 幫助中心(微信/支付寶國際卡3%):https://help.mp.net/zh-TW/articles/15048347
-- 淘寶付款方式(Wise):https://wise.com/zh-hk/blog/taobao-payment-method
+- MoneyHero 淘寶付款手續費(2025-01-08):[https://www.moneyhero.com.hk/blog/zh/淘寶付款-方法-手續費比較-信用卡回贈](https://www.moneyhero.com.hk/blog/zh/淘寶付款-方法-手續費比較-信用卡回贈)
+- MoneyHero 恒生Travel+產品頁:[https://www.moneyhero.com.hk/zh/credit-card/products/hang-seng-travel-visa-signature-card](https://www.moneyhero.com.hk/zh/credit-card/products/hang-seng-travel-visa-signature-card)
+- MoneyHero 恒生卡比較(2026):[https://www.moneyhero.com.hk/zh/credit-card/provider/hang-seng](https://www.moneyhero.com.hk/zh/credit-card/provider/hang-seng)
+- Talk Money Travel+攻略(2025-08-29更新):[https://talkmoney.com.hk/恒生travel-visa-signature信用卡好唔好/](https://talkmoney.com.hk/恒生travel-visa-signature信用卡好唔好/)
+- 里先生Mr. Miles:中銀優惠合集(2026-09-01)/Go卡(2026-08-21)/Cheers(2026-08-21)/淘寶卡(2026-05-01)/CCB TRAVO及eye:[https://www.mrmiles.hk/boc-promo/](https://www.mrmiles.hk/boc-promo/) 、[https://www.mrmiles.hk/boc-unionpay/](https://www.mrmiles.hk/boc-unionpay/) 、[https://www.mrmiles.hk/boc-cheers/](https://www.mrmiles.hk/boc-cheers/) 、[https://www.mrmiles.hk/boc-taobao-mastercard/](https://www.mrmiles.hk/boc-taobao-mastercard/) 、[https://www.mrmiles.hk/ccb-travo/](https://www.mrmiles.hk/ccb-travo/) 、[https://www.mrmiles.hk/ccb-eye-card-asia-miles/](https://www.mrmiles.hk/ccb-eye-card-asia-miles/)
+- hkcashrebate / pickcardrebate TRAVO、eye:[https://hkcashrebate.com/ccba-travo](https://hkcashrebate.com/ccba-travo) 、[https://pickcardrebate.com/cards/ccb-travo](https://pickcardrebate.com/cards/ccb-travo) 、[https://pickcardrebate.com/cards/ccb-eye](https://pickcardrebate.com/cards/ccb-eye)
+- Miss Card:建行銀聯雙幣評測、銀聯鑽石Prestige評測:[https://miss-card.com/建行銀聯雙幣信用卡好唔好/](https://miss-card.com/建行銀聯雙幣信用卡好唔好/)
+- MoneySmart 大新海外卡比較:[https://www.moneysmart.hk/zh-hk/credit-cards/dah-sing-bank/travel-overseas-spending](https://www.moneysmart.hk/zh-hk/credit-cards/dah-sing-bank/travel-overseas-spending) ;銀聯鑽石卡比較:[https://blog.moneysmart.hk/zh-hk/credit-cards/銀聯-雙幣-鑽石卡-揀邊張好-2018/](https://blog.moneysmart.hk/zh-hk/credit-cards/銀聯-雙幣-鑽石卡-揀邊張好-2018/)
+- 经济一周edigest 建行銀聯雙幣評價:[https://www.edigest.hk/理財/建行銀聯雙幣信用卡評價-2039102/](https://www.edigest.hk/理財/建行銀聯雙幣信用卡評價-2039102/)
+- x-income CCB TRAVO:[https://x-income.com/ccbtravomastercard/](https://x-income.com/ccbtravomastercard/)
+- MP 幫助中心(微信/支付寶國際卡3%):[https://help.mp.net/zh-TW/articles/15048347](https://help.mp.net/zh-TW/articles/15048347)
+- 淘寶付款方式(Wise):[https://wise.com/zh-hk/blog/taobao-payment-method](https://wise.com/zh-hk/blog/taobao-payment-method)
 
 **未驗證/留意位:**
 - 恒生Travel+ 2024年推出初期「Travel+平台訂購優惠」:現行官方條款冇「Travel+平台」簽賬類別,推測用戶所指係恒生「Smart Travel+ / 恒生旅遊平台」概念或同其他銀行混淆;現行回贈完全按「國家×實體外幣簽賬」計。

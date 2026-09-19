@@ -1,3 +1,7 @@
+---
+title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
+---
+
 # 香港「海外簽賬(包括中國大陸人民幣)」最高回贈信用卡研究
 **查證日期:2026年9月19日|情境:每年海外(非港幣)簽賬 HK$100,000 或以上,現金回贈 vs 飛行里數全面比較**
 
@@ -228,62 +232,62 @@
 ### 滙豐 HSBC
 | 項目 | 連結 |
 |---|---|
-| Visa Signature 產品頁 | https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-signature/ |
-| EveryMile 產品頁 | https://www.hsbc.com.hk/zh-hk/credit-cards/products/everymile/ |
-| 最紅自主獎賞(2026) | https://www.hsbc.com.hk/zh-hk/credit-cards/rewards/your-choice/ |
-| Travel Guru 官方頁+T&C | https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/ |
-| EveryMile 海外簽賬優惠+T&C | https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/everymile-spending-offer/ |
-| Pulse 銀聯雙幣鑽石卡 T&C | https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/unionpay-dual-currency/diamond-card-terms-and-conditions.pdf |
-| 收費簡介(KFS,外幣費1.95%) | https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/key-fact-statement.pdf |
+| Visa Signature 產品頁 | [https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-signature/](https://www.hsbc.com.hk/zh-hk/credit-cards/products/visa-signature/) |
+| EveryMile 產品頁 | [https://www.hsbc.com.hk/zh-hk/credit-cards/products/everymile/](https://www.hsbc.com.hk/zh-hk/credit-cards/products/everymile/) |
+| 最紅自主獎賞(2026) | [https://www.hsbc.com.hk/zh-hk/credit-cards/rewards/your-choice/](https://www.hsbc.com.hk/zh-hk/credit-cards/rewards/your-choice/) |
+| Travel Guru 官方頁+T&C | [https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/](https://www.redhotoffers.hsbc.com.hk/en/latest-offers/travel-guru/) |
+| EveryMile 海外簽賬優惠+T&C | [https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/everymile-spending-offer/](https://www.redhotoffers.hsbc.com.hk/tc/latest-offers/everymile-spending-offer/) |
+| Pulse 銀聯雙幣鑽石卡 T&C | [https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/unionpay-dual-currency/diamond-card-terms-and-conditions.pdf](https://www.hsbc.com.hk/content/dam/hsbc/hk/tc/docs/credit-cards/unionpay-dual-currency/diamond-card-terms-and-conditions.pdf) |
+| 收費簡介(KFS,外幣費1.95%) | [https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/key-fact-statement.pdf](https://www.hsbc.com.hk/content/dam/hsbc/hk/docs/credit-cards/key-fact-statement.pdf) |
 | Travel Guru T&C(用戶提供 2026-01-01 / 2026-04-01 版) | 本地存檔:`research/guru_membership_2026.txt`、`research/guru_spend_offer_2026.txt`(原PDF於 attachments) |
 
 ### 恒生 Hang Seng
 | 項目 | 連結 |
 |---|---|
-| Travel+ 產品頁(7%官方頁) | https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/ |
-| Travel+ +FUN Dollars 獎賞T&C(2026) | https://www.hangseng.com/content/dam/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_tc.pdf |
-| Travel+ 迎新T&C | https://www.hangseng.com/content/dam/hase/rwd/personal/cards/pdfs/travelplus_welcome_tnc_tc.pdf |
+| Travel+ 產品頁(7%官方頁) | [https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/](https://www.hangseng.com/zh-hk/personal/cards/products/travel-plus-card/) |
+| Travel+ +FUN Dollars 獎賞T&C(2026) | [https://www.hangseng.com/content/dam/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_tc.pdf](https://www.hangseng.com/content/dam/hase/rwd/personal/cards/pdfs/travelplus_fundollars_tnc_tc.pdf) |
+| Travel+ 迎新T&C | [https://www.hangseng.com/content/dam/hase/rwd/personal/cards/pdfs/travelplus_welcome_tnc_tc.pdf](https://www.hangseng.com/content/dam/hase/rwd/personal/cards/pdfs/travelplus_welcome_tnc_tc.pdf) |
 
 ### 建行(亞洲) CCB (Asia)
 | 項目 | 連結 |
 |---|---|
-| TRAVO 產品頁(10%組合) | https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html |
-| TRAVO Rewards T&C | https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html |
-| eye 產品頁(11%餐飲/2%網購) | https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html |
-| 積分獎賞計劃T&C(15分=1里) | https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html |
+| TRAVO 產品頁(10%組合) | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html) |
+| TRAVO Rewards T&C | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html) |
+| eye 產品頁(11%餐飲/2%網購) | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html) |
+| 積分獎賞計劃T&C(15分=1里) | [https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html](https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html) |
 
 ### 中銀 BOC
 | 項目 | 連結 |
 |---|---|
-| Cheers 10倍積分T&C | https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf |
-| Go卡 內地手機支付20X升級優惠(至2026-09-30) | https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html |
-| 淘寶World卡T&C(0%手續費) | https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf |
+| Cheers 10倍積分T&C | [https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf](https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf) |
+| Go卡 內地手機支付20X升級優惠(至2026-09-30) | [https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html](https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html) |
+| 淘寶World卡T&C(0%手續費) | [https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf](https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf) |
 
 ### 渣打 SCB
 | 項目 | 連結 |
 |---|---|
-| 國泰 Mastercard(賺率官方頁) | https://www.sc.com/hk/zh/credit-cards/cathay/ |
-| Smart 卡(免外幣費) | https://www.sc.com/hk/zh/credit-cards/smart/ |
+| 國泰 Mastercard(賺率官方頁) | [https://www.sc.com/hk/zh/credit-cards/cathay/](https://www.sc.com/hk/zh/credit-cards/cathay/) |
+| Smart 卡(免外幣費) | [https://www.sc.com/hk/zh/credit-cards/smart/](https://www.sc.com/hk/zh/credit-cards/smart/) |
 
 ### 花旗 Citibank
 | 項目 | 連結 |
 |---|---|
-| PremierMiles 產品頁($3/里) | https://www.citibank.com.hk/chinese/credit-cards/premiermiles-cards/index.html |
-| PremierMiles 積分T&C(¥不算外幣條款) | https://www.citibank.com.hk/chinese/credit-cards/premiermiles-card-tnc/ |
+| PremierMiles 產品頁($3/里) | [https://www.citibank.com.hk/chinese/credit-cards/premiermiles-cards/index.html](https://www.citibank.com.hk/chinese/credit-cards/premiermiles-cards/index.html) |
+| PremierMiles 積分T&C(¥不算外幣條款) | [https://www.citibank.com.hk/chinese/credit-cards/premiermiles-card-tnc/](https://www.citibank.com.hk/chinese/credit-cards/premiermiles-card-tnc/) |
 
 ### 美國運通 Amex / DBS
 | 項目 | 連結 |
 |---|---|
-| Explorer 產品頁 | https://www.americanexpress.com/hk/ch/credit-cards/explorer-credit-card/ |
-| Explorer 外幣10.75X登記優惠 | https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/ |
-| Explorer MR積分T&C | https://www.americanexpress.com/content/dam/amex/hk/ch/staticassets/pdf/cards/explorer-credit-card/MRTnC_CHI.pdf |
-| DBS Black World 海外$2/里推廣 | https://www.dbs.com.hk/personal-zh/promotion/black-mc-cvp |
-| DBS Black World T&C(PDF) | https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_double_perks_2026Q1_TnC_EN.pdf |
+| Explorer 產品頁 | [https://www.americanexpress.com/hk/ch/credit-cards/explorer-credit-card/](https://www.americanexpress.com/hk/ch/credit-cards/explorer-credit-card/) |
+| Explorer 外幣10.75X登記優惠 | [https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/](https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/) |
+| Explorer MR積分T&C | [https://www.americanexpress.com/content/dam/amex/hk/ch/staticassets/pdf/cards/explorer-credit-card/MRTnC_CHI.pdf](https://www.americanexpress.com/content/dam/amex/hk/ch/staticassets/pdf/cards/explorer-credit-card/MRTnC_CHI.pdf) |
+| DBS Black World 海外$2/里推廣 | [https://www.dbs.com.hk/personal-zh/promotion/black-mc-cvp](https://www.dbs.com.hk/personal-zh/promotion/black-mc-cvp) |
+| DBS Black World T&C(PDF) | [https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_double_perks_2026Q1_TnC_EN.pdf](https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_double_perks_2026Q1_TnC_EN.pdf) |
 
 ### 支付/攻略
 | 項目 | 連結 |
 |---|---|
-| 雲閃付(銀聯國際,港澳綁卡內地掃碼) | https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml |
-| AlipayHK 官方收費FAQ | https://www.alipayhk.com/zh/faq-shoppers/bank-card-pps/ |
-| 中國版支付寶/微信綁港卡攻略(2026收費/限額) | https://gba101.hk/wechat-alipay-binding-hk-2026/ |
-| DBS WeChat Pay HK 港幣結算條款 | https://www.dbs.com.hk/iwov-resources/pdf/creditcards/DBS_WeChatPay_2025Q2_TnC_CN.pdf |
+| 雲閃付(銀聯國際,港澳綁卡內地掃碼) | [https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml](https://www.unionpayintl.com/hk/servicesProducts/products/innovativeProducts/mobilePayment/unionpay.shtml) |
+| AlipayHK 官方收費FAQ | [https://www.alipayhk.com/zh/faq-shoppers/bank-card-pps/](https://www.alipayhk.com/zh/faq-shoppers/bank-card-pps/) |
+| 中國版支付寶/微信綁港卡攻略(2026收費/限額) | [https://gba101.hk/wechat-alipay-binding-hk-2026/](https://gba101.hk/wechat-alipay-binding-hk-2026/) |
+| DBS WeChat Pay HK 港幣結算條款 | [https://www.dbs.com.hk/iwov-resources/pdf/creditcards/DBS_WeChatPay_2025Q2_TnC_CN.pdf](https://www.dbs.com.hk/iwov-resources/pdf/creditcards/DBS_WeChatPay_2025Q2_TnC_CN.pdf) |

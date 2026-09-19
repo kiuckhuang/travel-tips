@@ -1,3 +1,7 @@
+---
+title: 附錄二:AE/Citi/DBS/渣打 里數卡研究
+---
+
 # 香港信用卡海外簽賬回報研究報告（2025 條款基準，附 2026 更新）
 **對象：** 香港用戶，年海外（非港幣）簽賬 HK$100,000+｜里數估值 Asia Miles 約 HK$0.15–0.2/里
 **研究日期：** 本環境來源頁多為 2025–2026 年版本；2025 年條款以當年 T&C 文件/報道重構（DBS 2025 T&C、flyasia 2025-01、大新 2025 推廣 T&C），2026 年變動逐項註明。
@@ -93,25 +97,25 @@
 web_search 工具故障，改用 DuckDuckGo HTML + EXA + r.jina.ai 抓官方頁及攻略站（mrmiles、flyasia、paylo、MoneyHero、MoneySmart、官方 T&C PDF）。部分 2025 年確數以當年 T&C PDF 為準（DBS、大新、AE）；渣打 360° 兌換率、富邦/華僑外幣手續費未能完全釘實，已註明。迎新優惠屬限時性質，未計入淨回報。
 
 ## 8. 參考連結（主要）
-1. https://www.americanexpress.com/hk/ch/credit-cards/explorer-credit-card/
-2. https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/
-3. https://www.americanexpress.com/content/dam/amex/hk/ch/staticassets/pdf/cards/explorer-credit-card/MRTnC_CHI.pdf
-4. https://www.mrmiles.hk/ae-explorer/ ・ https://www.mrmiles.hk/ae-overseas/
-5. https://news.flyasia.co/p/ae-explorer-jan25
-6. https://www.citibank.com.hk/chinese/credit-cards/premiermiles-cards/index.html
-7. https://www.mrmiles.hk/citi-premiermiles/ ・ https://www.paylo.hk/cards/citi-premiermiles-card
-8. https://www.citibank.com.hk/chinese/credit-cards/rewards-card/ ・ https://www.citibank.com.hk/chinese/credit-cards/pdf/rewards-card/faq.pdf
-9. https://www.mrmiles.hk/citi-rewards/ ・ https://www.citibank.com.hk/chinese/credit-cards/pdf/notice-of-amendment-card-program.pdf
-10. https://www.mrmiles.hk/citi-prestige/
-11. https://www.dbs.com.hk/personal-zh/promotion/black-mc-cvp ・ https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_CVP_2025_TnC_CN.pdf
-12. https://www.moneyhero.com.hk/zh/credit-card/blog/解構-dbs-black-world-mastercard-信用卡
-13. https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_double_perks_2026Q1_TnC_EN.pdf
-14. https://www.sc.com/hk/zh/credit-cards/smart/ ・ https://www.mrmiles.hk/scb-smart/ ・ https://av.sc.com/hk/content/docs/hk-noc-gn151-1124.pdf
-15. https://www.sc.com/hk/zh/credit-cards/cathay/ ・ https://www.mrmiles.hk/cathay-card/ ・ https://www.moneyhk101.com/sc-cathay-mastercard/
-16. https://www.sc.com/hk/zh/credit-cards/priority-banking/ ・ https://www.sc.com/hk/zh/priority/360-rewards-am/
-17. https://www.dahsing.com/html/tc/credit_card/card_products/co_brand/british_airway_card.html ・ https://www.dahsing.com/pdf/credit_card/cc_ba_ospend_tnc_tc.pdf ・ https://www.paylo.hk/cards/dah-sing-british-airways-platinum-card
-18. https://fubonbank.com.hk/tc/cards/bonus-points-program/extra-reward.html
-19. https://www.ocbc.com.hk/personal-banking/zh/cards/ocbc-credit-card ・ https://www.ocbc.com.hk/premier-banking/zh/our-solutions/cards/premier-voyage-card.page
-20. https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/CMBWLBWorldMastercard.html
-21. https://www.icbcasia.com/hk/sc/promotion/unionpay-overseas-cash-rebate.html ・ https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-greater-bay-area-credit-cards.html
-22. https://www.mrmiles.hk/overseas-card/ ・ https://www.mrmiles.hk/hsbc-visa-signature/
+1. [https://www.americanexpress.com/hk/ch/credit-cards/explorer-credit-card/](https://www.americanexpress.com/hk/ch/credit-cards/explorer-credit-card/)
+2. [https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/](https://www.americanexpress.com/zh-hk/benefits/offers/travel/explorer-overseas-spend-offer/)
+3. [https://www.americanexpress.com/content/dam/amex/hk/ch/staticassets/pdf/cards/explorer-credit-card/MRTnC_CHI.pdf](https://www.americanexpress.com/content/dam/amex/hk/ch/staticassets/pdf/cards/explorer-credit-card/MRTnC_CHI.pdf)
+4. [https://www.mrmiles.hk/ae-explorer/](https://www.mrmiles.hk/ae-explorer/) ・ [https://www.mrmiles.hk/ae-overseas/](https://www.mrmiles.hk/ae-overseas/)
+5. [https://news.flyasia.co/p/ae-explorer-jan25](https://news.flyasia.co/p/ae-explorer-jan25)
+6. [https://www.citibank.com.hk/chinese/credit-cards/premiermiles-cards/index.html](https://www.citibank.com.hk/chinese/credit-cards/premiermiles-cards/index.html)
+7. [https://www.mrmiles.hk/citi-premiermiles/](https://www.mrmiles.hk/citi-premiermiles/) ・ [https://www.paylo.hk/cards/citi-premiermiles-card](https://www.paylo.hk/cards/citi-premiermiles-card)
+8. [https://www.citibank.com.hk/chinese/credit-cards/rewards-card/](https://www.citibank.com.hk/chinese/credit-cards/rewards-card/) ・ [https://www.citibank.com.hk/chinese/credit-cards/pdf/rewards-card/faq.pdf](https://www.citibank.com.hk/chinese/credit-cards/pdf/rewards-card/faq.pdf)
+9. [https://www.mrmiles.hk/citi-rewards/](https://www.mrmiles.hk/citi-rewards/) ・ [https://www.citibank.com.hk/chinese/credit-cards/pdf/notice-of-amendment-card-program.pdf](https://www.citibank.com.hk/chinese/credit-cards/pdf/notice-of-amendment-card-program.pdf)
+10. [https://www.mrmiles.hk/citi-prestige/](https://www.mrmiles.hk/citi-prestige/)
+11. [https://www.dbs.com.hk/personal-zh/promotion/black-mc-cvp](https://www.dbs.com.hk/personal-zh/promotion/black-mc-cvp) ・ [https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_CVP_2025_TnC_CN.pdf](https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_CVP_2025_TnC_CN.pdf)
+12. [https://www.moneyhero.com.hk/zh/credit-card/blog/解構-dbs-black-world-mastercard-信用卡](https://www.moneyhero.com.hk/zh/credit-card/blog/解構-dbs-black-world-mastercard-信用卡)
+13. [https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_double_perks_2026Q1_TnC_EN.pdf](https://www.dbs.com.hk/iwov-resources/pdf/creditcards/BlackMC_double_perks_2026Q1_TnC_EN.pdf)
+14. [https://www.sc.com/hk/zh/credit-cards/smart/](https://www.sc.com/hk/zh/credit-cards/smart/) ・ [https://www.mrmiles.hk/scb-smart/](https://www.mrmiles.hk/scb-smart/) ・ [https://av.sc.com/hk/content/docs/hk-noc-gn151-1124.pdf](https://av.sc.com/hk/content/docs/hk-noc-gn151-1124.pdf)
+15. [https://www.sc.com/hk/zh/credit-cards/cathay/](https://www.sc.com/hk/zh/credit-cards/cathay/) ・ [https://www.mrmiles.hk/cathay-card/](https://www.mrmiles.hk/cathay-card/) ・ [https://www.moneyhk101.com/sc-cathay-mastercard/](https://www.moneyhk101.com/sc-cathay-mastercard/)
+16. [https://www.sc.com/hk/zh/credit-cards/priority-banking/](https://www.sc.com/hk/zh/credit-cards/priority-banking/) ・ [https://www.sc.com/hk/zh/priority/360-rewards-am/](https://www.sc.com/hk/zh/priority/360-rewards-am/)
+17. [https://www.dahsing.com/html/tc/credit_card/card_products/co_brand/british_airway_card.html](https://www.dahsing.com/html/tc/credit_card/card_products/co_brand/british_airway_card.html) ・ [https://www.dahsing.com/pdf/credit_card/cc_ba_ospend_tnc_tc.pdf](https://www.dahsing.com/pdf/credit_card/cc_ba_ospend_tnc_tc.pdf) ・ [https://www.paylo.hk/cards/dah-sing-british-airways-platinum-card](https://www.paylo.hk/cards/dah-sing-british-airways-platinum-card)
+18. [https://fubonbank.com.hk/tc/cards/bonus-points-program/extra-reward.html](https://fubonbank.com.hk/tc/cards/bonus-points-program/extra-reward.html)
+19. [https://www.ocbc.com.hk/personal-banking/zh/cards/ocbc-credit-card](https://www.ocbc.com.hk/personal-banking/zh/cards/ocbc-credit-card) ・ [https://www.ocbc.com.hk/premier-banking/zh/our-solutions/cards/premier-voyage-card.page](https://www.ocbc.com.hk/premier-banking/zh/our-solutions/cards/premier-voyage-card.page)
+20. [https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/CMBWLBWorldMastercard.html](https://www.cmbwinglungbank.com/wlb_corporate/hk/personal/credit-card/credit-card-products/CMBWLBWorldMastercard.html)
+21. [https://www.icbcasia.com/hk/sc/promotion/unionpay-overseas-cash-rebate.html](https://www.icbcasia.com/hk/sc/promotion/unionpay-overseas-cash-rebate.html) ・ [https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-greater-bay-area-credit-cards.html](https://www.icbcasia.com/hk/tc/personal/credit-cards/type-of-cards/icbc-greater-bay-area-credit-cards.html)
+22. [https://www.mrmiles.hk/overseas-card/](https://www.mrmiles.hk/overseas-card/) ・ [https://www.mrmiles.hk/hsbc-visa-signature/](https://www.mrmiles.hk/hsbc-visa-signature/)
