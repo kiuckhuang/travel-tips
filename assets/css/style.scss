@@ -1,0 +1,40 @@
+---
+---
+
+@import '{{ site.theme }}';
+
+/* ── 手機/桌面自適應 ───────────────────────── */
+html { scroll-behavior: smooth; }
+body { word-wrap: break-word; overflow-wrap: anywhere; }
+
+/* 闊表喺手機橫向滑動,唔好爆版 */
+table {
+  display: block;
+  width: fit-content;
+  max-width: 100%;
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+th, td { min-width: 5.5em; }
+
+img { max-width: 100%; height: auto; }
+code { word-break: break-all; }
+
+/* 長 URL / 連結唔好撐爆 */
+a { overflow-wrap: anywhere; }
+
+@media (max-width: 42em) {
+  .page-header { padding: 2rem 1rem; }
+  .project-name { font-size: 1.6rem; }
+  .project-tagline { font-size: 0.95rem; }
+  body { font-size: 15px; line-height: 1.65; }
+  table { font-size: 12.5px; }
+  th, td { padding: 6px 8px; min-width: 4.5em; }
+}
+
+/* 標題層次 */
+h2 { margin-top: 2.2em; padding-bottom: .3em; border-bottom: 1px solid rgba(255,255,255,.25); }
+.main-content h2 { border-bottom: 1px solid #e6e6e6; }
+
+/* 返回頂部 */
+.back-top { float: right; font-size: .85em; }
