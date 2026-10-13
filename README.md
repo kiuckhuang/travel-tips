@@ -14,6 +14,8 @@
 | [`appendix/hk-overseas-credit-cards-2025-report.md`](appendix/hk-overseas-credit-cards-2025-report.md) | 附錄二:AE/Citi/DBS/渣打等里數卡詳細研究 |
 | [`appendix/final-report-alipay-wechat-digital-banks-miles-value.md`](appendix/final-report-alipay-wechat-digital-banks-miles-value.md) | 附錄三:支付寶/微信/虛擬銀行/Asia Miles 估值 |
 | [`qatar.md`](qatar.md) | ✈️ Qatar Avios 幫親友換機票 2026 懶人包:My List(4位有會籍)/ Family & Friends(6位池化)新制、30日開名單門檻、6個月鎖定期、Gold/Platinum 豁免 |
+| [`accor-platinum-2026.md`](accor-platinum-2026.md) | 🏨 **Accor 臻享卡雙11閃促衝白金 2026**:2026-09-23 新門檻(銀10/金30/白金60晚,鑽石只計26,000定級積分)、卓悅版 ¥1,099 送20晚・超悅版 ¥2,188 送30晚・雙卡立減 ¥889、付費卡贈晚每年上限50晚(連 A+ 嗰30晚都計)、**40晚金卡買卓悅即達60晚白金**個案、4個情境+快速對照表、條款紅線 |
+| [`accor-platinum-2026-sources.md`](accor-platinum-2026-sources.md) | 📎 上面篇文嘅全部來源連結(官方條款/等級頁/Fast Track + 2026 攻略文,含雙11活動條文對照) |
 
 ## 📜 條款存檔(`tnc/`)
 
