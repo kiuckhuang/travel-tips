@@ -1,9 +1,10 @@
 ---
-title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
+title: 海外簽賬高回贈信用卡研究(2026-10-19 更新)
 ---
 
 # 香港「海外簽賬(包括中國大陸人民幣)」最高回贈信用卡研究
-**查證日期:2026年9月19日|情境:每年海外(非港幣)簽賬 HK$100,000 或以上,現金回贈 vs 飛行里數全面比較**
+**查證日期:2026年9月19日 ・ 2026年10月19日更新:中銀 Go 20X 新推廣期、建行 eye 升級 eye+**
+**情境:每年海外(非港幣)簽賬 HK$100,000 或以上,現金回贈 vs 飛行里數全面比較**
 
 > 數字以銀行官方條款(含滙豐 Travel Guru 官方 T&C 2026年4月版)、MrMiles.hk、hkcashrebate.com 等交叉核實;推廣有期限及名額,申請前請再核實最新 T&C。
 
@@ -92,7 +93,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 - 年 $100K 外幣 ≈ **33,800里**;迎新(限時):首3個月簽$30,000 合共 32,805里 + $550回贈。
 - 年費$2,200(首年免;年簽$150,000豁免次年);年薪約$300,000(實際批核寬鬆);外幣費2%、**無CBF、無DCC協議**;每年8次環亞貴賓室。
 
-### 5️⃣ 建行(亞洲) TRAVO World MC / eye Visa Signature
+### 5️⃣ 建行(亞洲) TRAVO World MC / eye+(原 eye Visa Signature)
 
 **TRAVO World MC(永久免年費)**
 - TRAVO Rewards(2026-07-01–12-31,要登記):**海外簽賬 4% 或 HK$1.5/里**;額外9倍積分上限225,000分 ≈ **每推廣期(半年)首 HK$25,000**食盡(2025年版係每曆年$44,445,留意唔同);本地餐飲 2% 或 $3/里(額外4倍上限50,000分≈$12,500)。無最低簽賬要求。
@@ -100,9 +101,11 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 - **指定海外商戶高達15%**:日本BicCamera(單筆滿¥30,000→¥4,500/階段×2)、JR東日本Suica、韓國樂天/新羅、泰國King Power、海外迪士尼/環球影城門票25%等。
 - 免費全家旅遊保;迎新$600–800。⚠️ CCB 換里數收費:首10,000里收$100,其後每5,000里$50(每次上限$300);積分2年到期。
 
-**eye Visa Signature(永久免年費;年薪$240,000)**
-- 本地餐飲/外賣/交通**高達11%**(每月登記;需月零售滿$5,000且該類單筆淨額滿$500,達標11%、唔達標4%;每階段回贈上限$400,全期$1,200)。
-- 網購/感應支付 5X = **HK$3/里 或 2%**(額外4倍上限300,000分≈$75,000,推廣期2026-01-01–09-30,免登記);e-banking繳費都有分($15/里)。
+**eye+ (2026-10-01 起由 eye Visa Signature 升級;舊 eye 卡一樣享新禮遇;Visa Signature 年費豁免)**
+- 網購**高達5%**、拍卡**高達3%**(Visa payWave/Apple Pay/Google Pay),**免登記**,但該月合資格零售簽賬要滿 **HK$3,000** 先觸發;每曆月合資格簽賬上限 **HK$8,000**(60,000積分≈$240 + 2%現金回贈$160 ≈ 5%;Infinite 再多簽$2,000/13,000分/$40,合共$10,000)。
+- **外幣回贈(新)**:每階段累積簽滿 **HK$60,000** → 等值 **HK$800** 外幣(AUD140/CNY680/USD100/JPY16,320),須開多幣種戶口+每階段登記,**每階段名額4,000名**;階段1 2026-10-01至12-31、階段2 2027-01-01至03-31。
+- ⚠️ 舊「本地餐飲/外賣/交通11%」(每月登記、每階段回贈上限$400)最後一期登記期 2026-07-01至09-30 已完結,官網暫未見新一期公佈——用之前請自行核對。
+- 積分25,000分=HK$100;換里數**15分=1里**;迎新HK$600(2026-10-01起);e-banking繳費都有分($15/里)。
 
 ### 6️⃣ 中銀:Cheers(里數容量王)/ Chill / Go(大陸手機支付)/ 淘寶卡
 
@@ -115,7 +118,8 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 **Chill Card(World MC 永久免年費)**:Chill商戶10%+海外/網上5%,每月額外回贈總上限$150(約$3,261/月食盡),要月簽實體零售$1,500——小容量,後生仔玩。
 
 **Go Card(銀聯雙幣,大陸掃碼神卡)**
-- **內地手機支付 20倍積分 = 8%**(限時推廣至 2026-09-30,**每月上限25,000分≈回贈HK$100、約$1,250簽賬**,要登記,2026年內豁免月簽$1,500門檻);本地手機支付10X=4%;海外簽賬2X=0.8%**無上限**;指定Go商戶5%(月上限$100)。
+- **內地手機支付 20倍積分 = 8%**(推廣期 **2026-10-01至12-31**,**每期額外積分上限75,000分≈回贈HK$300、約$3,947簽賬食盡**——舊版係每月25,000分/$100,而家改為整期計,可以一次過食;要登記,名額首35,000,2026年內豁免月簽$1,500門檻);本地手機支付10X=4%;海外簽賬2X=0.8%**無上限**;指定Go商戶5%(月上限$100)。
+- 鑽石卡:內地額外19X+海外2X=20X;白金卡:內地額外9X(10X)。**Alipay/WeChat Pay 唔計**;內地交易以人民幣計,¥1當HK$1。
 - 指定手機支付:BoC Pay+、雲閃付、Apple Pay、Huawei Pay、Samsung Pay。
 - **中銀「狂賞飛」**:銀聯雙幣卡內地+澳門簽賬每階段滿$5,000享8%(上限$300)——**連綁定 WeChat Pay/AlipayHK 嘅交易都計**,係電子錢包大陸消費少有有回贈嘅路線。
 
@@ -153,7 +157,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
    - **WeChat Pay HK 大陸交易以港幣入賬**(DBS官方條款)——唔算外幣簽賬:免1.95%費,但亦食唔到海外加成;內地錢包版WeChat綁國際卡>¥200收3%(限¥6,000/筆、¥50,000/月)。
    - 例外:渣打國泰(WeChat Pay HK付款$6/里)、安信EarnMORE 2%、渣打Simply Cash 1.5%、Citi系列有分(**但Citi PM人民幣$8/里,大陸消費唔好用Citi**);**中銀「狂賞飛」連綁WeChat/AlipayHK嘅銀聯雙幣卡交易都計8%**——係最正嘅錢包大陸路線。
 2. **實體/銀聯碼先係王道**:
-   - **中銀 Go 鑽石**:內地手機支付8%(至2026-09-30,月上限$100回贈)+狂賞飛8%/階段;
+   - **中銀 Go 鑽石**:內地手機支付8%(2026-10-01至12-31,每期上限75,000分≈$300回贈)+狂賞飛8%/階段;
    - **滙豐 Pulse 銀聯**:內地/澳門QR 4.4%,內地食肆疊到9.4%,內地澳門零交易費;
    - **恒生 Travel+ 7%**:內地實體店Visa外幣簽賬都計(酒店/商場/連鎖店收到Visa就得)。
    - **雲閃付 App**:港澳居民綁香港發行銀聯卡(中銀香港等)內地掃碼,人民幣直接結算免轉換費,≤¥300免密——配 Pulse/Go 食高回贈。
@@ -208,7 +212,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 
 ### 🥉 組合C「大灣區/大陸消費重」
 **中銀 Go 鑽石 + 滙豐 Pulse 銀聯 + 恒生 Travel+(+中銀淘寶卡)**
-- 內地掃碼:Go 20X(8%,至2026-09-30)+狂賞飛8%/階段;Pulse QR 4.4%/食肆9.4%兼零交易費;內地實體Visa用Travel+ 7%;
+- 內地掃碼:Go 20X(8%,至2026-12-31)+狂賞飛8%/階段;Pulse QR 4.4%/食肆9.4%兼零交易費;內地實體Visa用Travel+ 7%;
 - 淘寶用淘寶卡0%手續費;避開Citi(人民幣$8/里)同電子錢包零回贈陷阱(除咗狂賞飛)。
 
 ---
@@ -217,8 +221,8 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 
 - **滙豐官方**:Visa Signature 產品頁/最紅自主獎賞FAQ、EveryMile 海外簽賬優惠 T&C(redhotoffers)、KFS收費表、**Travel Guru 會籍計劃 T&C(2026-01-01)及簽賬獎賞T&C(2026-04-01)**(用戶提供PDF,登記期/3%/4%/6%及$500/$1,200/$2,200RC上限均已核實)
 - **恒生官方**:Travel+ +FUN Dollars 獎賞計劃T&C(2026)、產品頁;2024新聞稿(2024-06推出)
-- **建行(亞洲)官方**:TRAVO Rewards T&C(2026-07-01版)、eye 5倍積分T&C、積分獎賞計劃T&C(2026-01-01)、銀聯雙幣卡頁
-- **中銀官方**:Cheers 10倍積分T&C、Go卡升級優惠(至2026-09-30)、淘寶卡T&C、狂賞派/狂賞飛
+- **建行(亞洲)官方**:TRAVO Rewards T&C(2026-07-01版)、eye+ 產品頁及日常消費賺外幣 T&C(2026-10-01版)、積分獎賞計劃T&C(2026-01-01)、銀聯雙幣卡頁
+- **中銀官方**:Cheers 10倍積分T&C、Go卡指定手機簽賬20X優惠(2026-10-01至12-31版)、淘寶卡T&C、狂賞派/狂賞飛
 - **渣打官方**:國泰Mastercard earn rate 頁、Smart卡;**DBS官方**:Black World T&C、WeChat Pay HK條款;**Citibank官方**:PremierMiles T&C($20,000/$3=1里;人民幣不算外幣)
 - **攻略/比較**:MrMiles.hk(海外簽賬比較2026/Travel Guru/恒生Travel+/中銀Cheers·Go/AE Explorer/AlipayHK/WeChat Pay)、hkcashrebate.com、flyasia、MoneyHero、HongKongCard、PickCardRebate(里數估值)
 - 附錄(工作區內完整子報告):`hk-credit-card-overseas-research-2025-26.md`(建行/恒生/中銀/銀聯)、`hk-overseas-credit-cards-2025-report.md`(AE/Citi/DBS/渣打)、`research/final_report.md`(支付寶/微信/虛銀/里數估值)
@@ -227,7 +231,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 
 ---
 
-## 七、官方連結一覽(2026-09-19 核實,全部 HTTP 200)
+## 七、官方連結一覽(2026-10-19 重新核實,全部 HTTP 200)
 
 ### 滙豐 HSBC
 
@@ -256,7 +260,8 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 |---|---|
 | TRAVO 產品頁(10%組合) | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html) |
 | TRAVO Rewards T&C | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_travo_cash_rebate.html) |
-| eye 產品頁(11%餐飲/2%網購) | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html) |
+| eye+ 產品頁(網購5%/拍卡3%) | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_credit_card.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_credit_card.html) |
+| eye+ 日常消費賺外幣 T&C | [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_eye_fx_cash_rebate.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_eye_fx_cash_rebate.html) |
 | 積分獎賞計劃T&C(15分=1里) | [https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html](https://www.asia.ccb.com/hongkong_tc/doc/cards/bonus-points-terms-and-conditions.html) |
 
 ### 中銀 BOC
@@ -264,7 +269,7 @@ title: 海外簽賬高回贈信用卡研究(2026-09-19 查證)
 | 項目 | 連結 |
 |---|---|
 | Cheers 10倍積分T&C | [https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf](https://www.bochk.com/dam/boccreditcard/cheers_TnC_TC.pdf) |
-| Go卡 內地手機支付20X升級優惠(至2026-09-30) | [https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html](https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html) |
+| Go卡 內地手機支付20X優惠(2026-10-01至12-31) | [https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html](https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html) |
 | 淘寶World卡T&C(0%手續費) | [https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf](https://www.bochk.com/creditcard/pdf/chi/taobao_TnC.pdf) |
 
 ### 渣打 SCB

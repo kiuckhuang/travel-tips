@@ -14,7 +14,7 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
 
 | 消費場景 | 最抵卡 | 名義回贈 | 關鍵上限/條件 |
 |---|---|---|---|
-| 大陸實體消費(銀聯/雲閃付/Apple Pay) | **中銀Go卡(銀聯鑽石)** | 內地手機支付 20X積分 = **8%**(限時推廣至2026-09-30,常年有10X=4%級別) | 每月上限25,000分(HK$100);需登記 |
+| 大陸實體消費(銀聯/雲閃付/Apple Pay) | **中銀Go卡(銀聯鑽石)** | 內地手機支付 20X積分 = **8%**(2026-10-01至12-31;常年有10X=4%級別) | 每期額外上限75,000分(HK$300);名額首35,000;需登記 |
 | 大陸實體消費(恆生陣營) | **恒生 Travel+ Visa Signature** | 內地實體外幣簽賬 **7%**(2026年起內地入指定國家;2025年係5%) | 每月額外上限HK$500,須月簽HK$6,000 |
 | 大陸消費(免手續費保底) | 建行(亞洲)銀聯雙幣卡 / 中銀雙幣 / 工銀 / 招商永隆 / 大新 | 免1.95%海外手續費,人民幣結算;基本回贈0.4%–0.5% | 建行銀聯雙幣可自選「人民幣」回贈 |
 | 淘寶 | **中銀淘寶World萬事達卡** | 淘寶手續費 **0%**(365日無上限)+ 海外簽賬0%手續費;回贈0.4% | 只限手機淘寶App/AlipayHK綁卡付款、實物商品 |
@@ -24,7 +24,7 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
 | 海外網購 | 中銀Bliss(15X=6%或HK$1/里,2026新卡)、恒生MMPOWER(網上5%–8%) | — | 各有月度上限 |
 | 大陸電商/外賣App(美團/京東/Keeta/滴滴) | **中銀Go卡「指定Go商戶」5%**,每月上限HK$100 | — | 京東限綁京東App+港澳地址自營 |
 
-**大陸人民幣消費全場最抵:中銀Go卡(銀聯鑽石)——內地手機支付20X積分(8%,每月上限HK$100)+指定Go商戶5%+狂賞飛內地8%(每階段上限HK$300,即約HK$3,750簽賬食滿);恒生Travel+內地實體7%(2026年起,月上限HK$500)係「實體店現金流大額」之選;建行銀聯雙幣卡勝在全年0%手續費+人民幣回贈,但賺率僅0.4%,主要做「免費結算工具」。**
+**大陸人民幣消費全場最抵:中銀Go卡(銀聯鑽石)——內地手機支付20X積分(8%,2026-10-01至12-31,每期上限75,000分≈HK$300)+指定Go商戶5%(月上限HK$100)+狂賞飛內地8%(每階段上限HK$300,即約HK$3,750簽賬食滿);恒生Travel+內地實體7%(2026年起,月上限HK$500)係「實體店現金流大額」之選;建行銀聯雙幣卡勝在全年0%手續費+人民幣回贈,但賺率僅0.4%,主要做「免費結算工具」。**
 
 ---
 
@@ -54,14 +54,14 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
 - **年費:永久免年費**(第三方比較:[https://pickcardrebate.com/cards/ccb-travo](https://pickcardrebate.com/cards/ccb-travo) ,2026年讀取:「海外4%(半年簽上限$25,000)、餐飲2%(半年簽上限$12,500)、永久免年費、無簽賬門檻」——同官方225,000/50,000額外積分上限一致)。
 - **注意:TRAVO係Mastercard,海外簽賬仍收約1.95%外幣折算費+海外交易手續費**(官方條款第5b條列明計法),名義4%/HK$1.5里係「未扣手續費」。
 
-### 1.2 eye Visa Signature 信用卡
-**資料日期:2026-09-19,官方頁 [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_visa_signature_credit_card.html) + 額外積分條款(2026-07-20生效版) [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_extra_bp_rewards.html**](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_extra_bp_rewards.html**)
-- **網購 + 拍卡支付(Visa payWave/Apple Pay/Google Pay):5X積分 = 2%現金回贈 或 HK$3=1里,無須登記**;額外4倍積分推廣期(2026-01-01至09-30)上限**300,000額外積分**(≈HK$75,000簽賬,即呢個加碼額內合共最多約25,000里)。「網上零售交易」無地域限制,海外網購都計。
-- 本地餐飲/外賣平台/交通:每月登記,2026-07-01至09-30分3階段:月零售滿HK$5,000且該類淨額滿HK$500 → (B)9% +(A)2% = **11%**;未達 → 4%;**每階段回贈上限HK$400**。電子錢包(AlipayHK/PayMe/WeChat Pay HK)交易完全唔計。
-- 積分換現金:25,000分=HK$100(250分=HK$1);換里數:**15分=1里**(Visa Signature屬可換里數卡種,官方積分獎賞計劃條款第16條)。
-- 迎新HK$600(首2個月簽滿HK$6,000)或HK$800(分期);**永久免年費**。
-- **定位:網購/拍卡/餐飲卡。海外實體簽賬冇加碼(得基本0.4%/HK$15=1里)**——唔係海外實體消費嘅主力卡。
-- 參考:hkcashrebate.com/ccba-eye、pickcardrebate.com/cards/ccb-eye(「網購/payWave 2%(年簽上限$75,000)」)、mrmiles.hk/ccb-eye-card-asia-miles(「網購/PayMe $3=1里」——留意官方最新條款已將電子錢包渠道排除,PayMe增值唔計分)。
+### 1.2 eye+ 信用卡(2026-10-01 起由 eye Visa Signature 升級)
+**資料日期:2026-10-19(2026-10-01 新制),官方頁 [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_credit_card.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/eye_credit_card.html) + 日常消費賺外幣 T&C [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_eye_fx_cash_rebate.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/tnc_eye_fx_cash_rebate.html)**
+- **網購高達5%、拍卡高達3%(Visa payWave/Apple Pay/Google Pay),免登記**;但該月合資格零售簽賬須滿 **HK$3,000** 先觸發;每曆月合資格簽賬上限 **HK$8,000**(60,000積分≈HK$240 + 2%現金回贈HK$160 ≈ 5%);**eye+ Visa Infinite** 額外再簽 HK$2,000 得 13,000分+HK$40(合共$10,000)。推廣期 2026-10-01至2027-03-31。
+- **日常消費賺外幣(新)**:每階段累積簽賬滿 **HK$60,000** → 等值 **HK$800** 外幣回贈(AUD140/CNY680/USD100/JPY16,320,按2026-09-01收市匯率、以十元為單位向下調整);須開立多幣種戶口+**每階段登記一次**,**每階段名額4,000名**;階段1 2026-10-01至12-31、階段2 2027-01-01至03-31。
+- ⚠️ **舊「本地餐飲/外賣平台/交通 11%」已完結**:最後一期登記期 2026-07-01至09-30(每月登記、月零售滿$5,000且該類淨額滿$500→9%+2%=11%、未達4%、每階段上限HK$400);官網暫未見新一期,用前請自行核對。
+- 積分換現金:25,000分=HK$100(250分=HK$1);換里數:**15分=1里**。迎新HK$600(2026-10-01起)或HK$800(分期);Visa Signature 年費豁免。
+- **定位:網購/拍卡卡。海外實體簽賬冇加碼(得基本0.4%/HK$15=1里)**——唔係海外實體消費嘅主力卡;新版上限由「每期$75,000簽賬」收窄到「每月$8,000」,大額集中簽會被封頂,每月穩定網購反而更抵。
+- 參考:hkcashrebate.com/ccba-eye、pickcardrebate.com/discover/ccb-eye-plus-guide、mrmiles.hk/ccb-eye(舊制2%/HK$3=1里資料,已不合用)。
 
 ### 1.3 建行(亞洲)銀聯雙幣信用卡(白金卡/鑽石卡/Prestige/八達通/培正等)
 **資料日期:2026-09-19,官方頁 [https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/cup_dual_currency.html**](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/cup_dual_currency.html**)
@@ -130,13 +130,13 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
 ## 3. 中銀香港 BOC
 
 ### 3.1 中銀銀聯雙幣卡 —— 「中銀Go卡」(前稱:中銀雙幣卡〈大灣區一卡通〉;2026年改名)
-**資料日期:2026-09-19;官方:中銀Go卡指定手機簽賬20X積分 [https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html](https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html) ;Go商戶 [https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html](https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html) ;第三方整理:mrmiles.hk/boc-unionpay/ (2026-08-21)**
+**資料日期:2026-10-19(Go 20X 新推廣期);官方:中銀Go卡指定手機簽賬20X積分(2026-10-01至12-31) [https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html](https://www.bochk.com/tc/creditcard/promotions/offers/gompq126.html) ;T&C [https://www.bochk.com/dam/boccreditcard/gopmq126/tnc_tc.pdf](https://www.bochk.com/dam/boccreditcard/gopmq126/tnc_tc.pdf) ;Go商戶 [https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html](https://www.bochk.com/tc/creditcard/promotions/offers/gomerchants.html) ;第三方整理:mrmiles.hk/boc-unionpay/ (2026-08-21)**
 
 - **一卡雙幣:內地簽賬人民幣結算,香港/海外港幣結算;人民幣簽賬免手續費;可以用人民幣找卡數**;可直接拍卡搭廣州地鐵等大灣區交通;支援跨境繳費。
 - **永久免年費;年薪要求HK$200,000**(mrmiles 2026-08)。
 - 迎新:**手機簽賬10%現金回贈,上限HK$800**(推廣至2026-12-31)。
 - **簽賬獎賞結構(每HK$1/¥1=1分;250分=HK$1→每1X=0.4%):**
-  - **內地手機支付簽賬(BoC Pay+、雲閃付APP、Apple Pay、Huawei Pay、Samsung Pay):銀聯鑽石卡 20X積分 = 8%現金回贈;白金卡 10X = 4%。**(推廣期至2026-09-30;每月上限25,000簽賬積分=HK$100;須登記;豁免「月累積簽賬滿HK$1,500」要求至2026-12-31)
+  - **內地手機支付簽賬(BoC Pay+、雲閃付APP、Apple Pay、Huawei Pay、Samsung Pay):銀聯鑽石卡 20X積分 = 8%現金回贈;白金卡 10X = 4%。**(推廣期 **2026-10-01至12-31**(舊期至2026-09-30);**每期額外積分上限75,000分=HK$300**(舊制係每月25,000分/HK$100,新版改為整期計);名額首35,000;須登記;豁免「月累積簽賬滿HK$1,500」要求至2026-12-31)
   - **指定Go商戶簽賬 5%**(每月上限HK$100):Keeta、美團、大眾點評、高速鐵路(西九龍站現場購票)、滴滴出行(內地)、京東(綁京東App,港澳收貨地址自營商品)、惠康、Market Place、Oliver's、3hreesixty。
   - 本地手機支付:鑽石10X(4%)/白金5X(2%)。
   - 海外手機支付:鑽石3X(1.2%)/白金2X(0.8%)。
@@ -219,7 +219,7 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
 
 ## 6. 俾呢位用戶(HK$100,000+/年海外)嘅組合建議
 
-1. **大陸人民幣消費主力:中銀Go卡(銀聯鑽石)**——雲閃付/Apple Pay 內地手機支付20X(8%,月上限HK$100)+Go商戶5%+狂賞飛內地8%(每階段上限HK$300);淘寶配**中銀淘寶World卡**(0%手續費)。次選:恒生Travel+(2026年內地實體7%,月上限$500,適合大額實體消費補足Go卡上限)。
+1. **大陸人民幣消費主力:中銀Go卡(銀聯鑽石)**——雲閃付/Apple Pay 內地手機支付20X(8%,2026-10-01至12-31,每期上限75,000分≈HK$300)+Go商戶5%+狂賞飛內地8%(每階段上限HK$300);淘寶配**中銀淘寶World卡**(0%手續費)。次選:恒生Travel+(2026年內地實體7%,月上限$500,適合大額實體消費補足Go卡上限)。
 2. **日本/南韓/泰國實體:恒生Travel+ Visa Signature**(7%,但無免手續費+月上限HK$500)→ 爆上限後轉**CCB TRAVO World Mastercard**(4%或HK$1.5/里,無門檻,永久免年費;仲有迪士尼/環球15%商戶加碼)。
 3. **新加坡/澳洲/歐美/海外網購:CCB TRAVO(4%)**、海外網購用**中銀Bliss(6%)**或恒生MMPOWER(網上5%/指定商戶8%);想要里數儲國泰:TRAVO HK$1.5/里或中銀Cheers Infinite HK$1.5/里(要俾1.95%費)。
 4. **免手續費保底**:任何銀聯雙幣卡(建行/中銀/工銀/永隆/大新)做「人民幣結算工具」——大額大陸消費時先慳1.95%;工銀大灣區鑽石1.5%無上限係最簡單嘅「免手續費+有回贈」組合。
@@ -227,7 +227,7 @@ title: 附錄一:建行(亞洲)/恒生/中銀/銀聯卡研究
 
 ---
 
-## 7. 參考連結(全部於2026-09-19讀取)
+## 7. 參考連結(2026-09-19讀取;Go 20X 及 eye+ 於2026-10-19更新)
 
 **官方**
 - 建行(亞洲)TRAVO:[https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html](https://www.asia.ccb.com/hongkong_tc/personal/credit_cards/travoworld.html)
