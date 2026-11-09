@@ -5,29 +5,35 @@ title: Accor 臻享卡衝白金 2026——來源一覽
 # 🔗 Accor 臻享卡衝白金 2026——全部來源連結
 
 > 主文：[Accor 臻享卡雙11閃促衝白金 2026]({{ '/accor-platinum-2026.html' | relative_url }})
-> 查證日期：**2026年10月13日**｜✅ = 當日已抓取全文核對內容；🔎 = 經搜尋結果收錄（未逐字核對）
+> 查證日期：**2026年10月13日首次發佈；2026年11月9日複查更新**｜✅ = 已抓取全文核對內容；🔎 = 經搜尋結果收錄（未逐字核對）
 
 ## 🏛 雅高官方（ALL Accor 心悅界）
 
 | # | 狀態 | 來源 | 支持咩結論 |
 |---|---|---|---|
-| 1 | ✅ | [會員條款與細則（自 2026-09-23 起）](https://all.accor.com/a/zh/loyalty-program/legal/terms-and-conditions.html) | **第 8 條門檻表**：銀卡 10 晚/2,000 分、金卡 30/7,000、白金卡 60/14,000、鑽石 26,000 分（房晚 N/A）；等級房晚每年 1 月 1 日重置；**首次獲白金送 2 張套房升級獎勵**（9.4.3 條） |
+| 1 | ✅（11-09 複查） | [會員條款與細則（現行版自 2026-10-16 起）](https://all.accor.com/a/zh/loyalty-program/legal/terms-and-conditions.html) | **第 8 條門檻表**（10-16 版與 09-23 版一致）：銀卡 10 晚/2,000 分、金卡 30/7,000、白金卡 60/14,000、鑽石 26,000 分（房晚 N/A）；等級房晚每年 1 月 1 日重置；**首次獲白金送 2 張套房升級獎勵**（9.4.3 條） |
 | 2 | ✅ | [會員條款與細則 PDF（雙11活動截圖內嗰條連結）](https://all.accor.com/loyalty-program/legal/terms-and-conditions-zh.pdf) | 同上（此 URL 會跳轉去上面 HTML 版） |
 | 3 | ✅ | [禮遇和會員等級](https://all.accor.com/loyalty-program/cards-status-benefits-details/index.zh.shtml) | 各級門檻與禮遇對照：白金 = 套房升級獎勵、休閒區使用權、提早入住＋延遲退房、76% 積分加成、2 天前保證有房 |
-| 4 | ✅ | [Upgrade your status faster（Fast Track 活動頁）](https://all.accor.com/a/en/offers/upgrade-your-status-faster.html) | 2026 年 4 月版條款：註冊期 9–30/4；金卡住 1 晚送 8 晚（No Flex、提前 3 日訂、1 人 1 次）；**白金或以上唔合資格**；住宿期 12/4–12/7 |
-| 5 | 🔎 | [不參與計劃的酒店和品牌名單](https://all.accor.com/loyalty-program/user/hotels-exception/index.zh.shtml) | 部分品牌／酒店唔賺積分同等級房晚（官方條款內連結） |
-| 6 | 🔎 | [ALL Accor+ 訂閱頁](https://all.accor.com/a/zh/loyalty-program/subscription-hub.html) | 付費會籍入口（A+ / ALL+） |
+| 4 | ✅（11-09 複查） | [Upgrade your status faster（Fast Track 活動頁）](https://all.accor.com/a/en/offers/upgrade-your-status-faster.html) | 頁面現仍顯示 2026 年 4 月版條款（已完結）：註冊期 9–30/4；金卡住 1 晚送 8 晚（No Flex、提前 3 日訂、1 人 1 次）；**白金或以上唔合資格**；住宿期 12/4–12/7。9 月「MEA APAC」回合詳情見下面 #11 |
+| 5 | 🔎 | [雅高臻享卡官方頁](https://all.accor.com/loyalty-program/subscription-program-all-plus-china/index.zh.shtml) | 臻享卡產品官方頁（Flyday 引用嘅購買渠道之一） |
+| 6 | 🔎 | [不參與計劃的酒店和品牌名單](https://all.accor.com/loyalty-program/user/hotels-exception/index.zh.shtml) | 部分品牌／酒店唔賺積分同等級房晚（官方條款內連結） |
+| 7 | 🔎 | [ALL Accor+ 訂閱頁](https://all.accor.com/a/zh/loyalty-program/subscription-hub.html) | 付費會籍入口（A+ / ALL+） |
 
 ## 📰 第三方攻略（2026 年）
 
 | # | 狀態 | 來源 | 支持咩結論 |
 |---|---|---|---|
-| 7 | ✅ | [MilesKing 里數王〈Accor會員全攻略2026〉](https://www.milesking.hk/accor%E6%9C%83%E5%93%A1%E5%85%A8%E6%94%BB%E7%95%A5/) | 門檻表（銀10/金30/白金60晚）；**A+ Explorer 每年送 30 等級房晚（直達金卡）**；「雙卡合璧」= A+ 30 + 臻享卡卓悅 20 = 50 贈晚 + 10 自住 = 白金；臻享卡限中國大陸/港澳酒店 |
-| 8 | ✅ | [美卡攻略〈2026 雅高 ALL 全攻略：品牌、等級與白金速成方案〉](https://www.stockq.org/arbitrage/accor-platinum-strategy.php) | **付費會籍（A+ 與臻享卡）贈晚每年上限 50 晚**；A+ 30 + 臻享卡 20 = 頂上限；白金效期 2027-12-31；巴西 ALL Signature 積分路徑（12,000 定級積分/年） |
-| 9 | ✅ | [里程家 Travelideas〈2026 雅高 ALL Accor Fast Track！住1晚最高送10晚〉（2026-09-16）](https://www.travelideas.tw/2026/09/Accor-Fast-Track-2026.html) | 2026 年 9 月新一輪 Fast Track（11-30 前註冊，住 1 晚送 5–10 晚） |
-| 10 | 🔎 | [常旅客小王子〈雅高心悦界会员：2026年最新Fast Track活动，住1晚赠5-15晚精英定级房晚〉](https://www.wangwenlei.com/555.html) | 同上（贈晚幅度 5/10/15 晚） |
-| 11 | 🔎 | [搜狐〈bug没了，白金会籍捷径还有！〉](https://www.sohu.com/a/940916118_121124418) | 飛豬雙11白金挑戰實例；「ALL Accor+ Explorer」為新版 A+ 名稱；白金會籍效期寫法參考 |
-| 12 | 🔎 | [Flyday.hk〈雅高 Accor ALL 會籍介紹〉](https://flyday.hk/accor-all-hotels-membership) | A+ 自 2024 年起不適用於中國大陸雅高酒店；A+ 同 ALL 會籍嘅關係 |
+| 8 | ✅ | [MilesKing 里數王〈Accor會員全攻略2026〉](https://www.milesking.hk/accor%E6%9C%83%E5%93%A1%E5%85%A8%E6%94%BB%E7%95%A5/) | 門檻表（銀10/金30/白金60晚）；**A+ Explorer 每年送 30 等級房晚（直達金卡）**；「雙卡合璧」= A+ 30 + 臻享卡卓悅 20 = 50 贈晚 + 10 自住 = 白金；臻享卡限中國大陸/港澳酒店 |
+| 9 | ✅ | [美卡攻略〈2026 雅高 ALL 全攻略：品牌、等級與白金速成方案〉](https://www.stockq.org/arbitrage/accor-platinum-strategy.php) | **付費會籍（A+ 與臻享卡）贈晚每年上限 50 晚**；A+ 30 + 臻享卡 20 = 頂上限；白金效期 2027-12-31；巴西 ALL Signature 積分路徑（12,000 定級積分/年） |
+| 10 | ✅ | [里程家 Travelideas〈2026 雅高 ALL Accor Fast Track！住1晚最高送10晚〉（2026-09-16）](https://www.travelideas.tw/2026/09/Accor-Fast-Track-2026.html) | 2026 年 9 月 MEA APAC Fast Track 回合（11-30 前註冊） |
+| 11 | ✅（11-09 新增） | [里程家（簡中站）〈雅高会员限定快速升级通道开启，最高住一晚得十晚！〉（2026-09）](https://travelideas.cn/index.php/2026/09/11245/) | MEA APAC Fast Track **完整 T&C**：註冊 09-10 至 11-30（CET）、入住至 12-30；經典 +5／銀 +7／金 +10 晚；**定向邀請制，會員地址須在指定國家名單（澳/日/韓/新/泰/越/馬/菲/印/印尼/柬/土/阿聯酋等）——香港、中國大陸不在名單**；房晚 10 日內入賬 |
+| 12 | ✅（11-09 新增） | [Flyday.hk〈【雅高臻享卡】雙11優惠共減人民幣889元！〉（2026-10-28）](https://flyday.hk/accor-all-promotions) | **卡內福利全表**：超悅 ¥2,188（原 ¥2,688）30 晚＋免房券 2 張；卓悅 ¥1,099（原 ¥1,488）20 晚＋免房券 1 張；雙卡 ¥3,287＝50 晚＋3 張免房券；歡悅版 ¥499 今次冇優惠；各款 5折/7折/升級/延遲退房/酒廊券數量；免房券適用內地/香港/澳門五星 |
+| 13 | ✅（11-09 新增） | [什麼值得買〈傳聞「明年只送30晚」炸开锅：臻享卡双十一要不要冲白金，先算清三本账〉（2026-10-13）](https://post.smzdm.com/p/avgp7gp9/) | **2027 贈晚上限傳聞 50→30 晚**（小紅書放風，官方未證實）→ 雙11＝末班車論；**坑一：必須先買 A+ 再買臻享卡**（反轉實測只到賬 30 晚）；**坑二：房晚到賬滯後**（實例：退房兩日後先入賬）；**坑三：免房券價值睇日曆價差**，和平飯店/深圳鵬瑞萊佛士等不在兌換範圍；金卡大陸單早/白金雙早限亞太；雅高白金可申請卡塔爾航空金卡 |
+| 14 | 🔎（11-09 新增） | [飛常旅客 Verylvke〈雅高双十一大促，史低价格拿下臻享卡！〉（2026-10-09）](https://www.verylvke.com/2026/10/09/all-plus-china-20261111/) | 同樣引述「明年贈晚上限可能降至 30 晚」小道消息；「再住 10 晚可達白金，效期到 2027 年底」 |
+| 15 | 🔎（11-09 新增） | [里程家（簡中站）〈雅高巴西订阅制ALL Signature 黑五预热享八折优惠〉（2026-11-05）](https://travelideas.cn/index.php/2026/11/14550/) | 巴西 Signature 黑五 8 折預熱，新方案加贈定級積分／房晚（個案 D 積分路徑參考） |
+| 16 | 🔎 | [常旅客小王子〈雅高心悦界会员：2026年最新Fast Track活动〉](https://www.wangwenlei.com/555.html) | Fast Track 活動存在（贈晚幅度以 #11 官方 T&C 為準） |
+| 17 | 🔎 | [搜狐〈bug没了，白金会籍捷径还有！〉](https://www.sohu.com/a/940916118_121124418) | 飛豬雙11白金挑戰實例；「ALL Accor+ Explorer」為新版 A+ 名稱；白金會籍效期寫法參考 |
+| 18 | 🔎 | [Flyday.hk〈雅高 Accor ALL 會籍介紹〉](https://flyday.hk/accor-all-hotels-membership) | A+ 自 2024 年起不適用於中國大陸雅高酒店；A+ 同 ALL 會籍嘅關係 |
 
 ## 📝 雙11活動 T&C（微信小程序截圖）條文對照
 
