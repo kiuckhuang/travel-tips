@@ -13,7 +13,7 @@ title: 香港海外簽賬回贈攻略
 | 🏆 [**主報告:海外簽賬高回贈信用卡 2026**]({{ '/hk-overseas-rebate-cards-2026.html' | relative_url }}) | 排行榜、逐卡拆解(HSBC VS+Travel Guru / EveryMile / 恒生 Travel+ / AE Explorer / CCB TRAVO / 中銀 Cheers·Go / Pulse 銀聯 / DBS / Citi / 渣打)、大陸消費攻略、**6 trips × $30K 實戰情景**、組合建議、官方連結一覽 |
 | ✈️ [Qatar Avios 幫親友換機票 2026 懶人包]({{ '/qatar.html' | relative_url }}) | My List / Family & Friends 新制、30日門檻、6個月鎖定期 |
 | 🏨 [**Accor 臻享卡雙11衝白金 2026**]({{ '/accor-platinum-2026.html' | relative_url }}) | 門檻(銀10/金30/**白金60晚**/鑽石只計26,000積分)、卓悅版 ¥1,099(+20晚+1免房券)/超悅版 ¥2,188(+30晚+2免房券)、付費卡贈晚每年上限50晚、**40晚金卡買卓悅即升白金**個案+4情境對照、買卡順序/到賬滯後陷阱、2027贈晚上限傳聞、[來源頁]({{ '/accor-platinum-2026-sources.html' | relative_url }}) |
-| ✈️ [**雅高白金→卡塔爾金卡「一飛升金」2026**]({{ '/accor-qatar-gold-2026.html' | relative_url }}) | ALL白金→QR金卡(**寰宇一家藍寶石**)、一飛升金實戰步驟(現金票/票號157/白金先到賬)、2026配額3,100(**四年約最後一年**)、最平¥800胡志明⇄金邊路線、五大翻車坑、QR金卡權益 |
+| ✈️ [**雅高白金→卡塔爾金卡「一飛升金」2026**]({{ '/accor-qatar-gold-2026.html' | relative_url }}) | ALL白金→QR金卡(**寰宇一家藍寶石**)、一飛升金實戰步驟(現金票/票號157/白金先到賬)、2026配額3,100(**四年約最後一年**)、**港深廣出發實戰**(QR815 HKG/QR875 CAN 紅眼・SZX冇QR・SGN⇄KTI一日遊)、五大翻車坑、QR金卡權益 |
 | 📎 [附錄一:建行/恒生/中銀/銀聯]({{ '/appendix/hk-credit-card-overseas-research-2025-26.html' | relative_url }}) | 銀聯雙幣卡詳細研究 |
 | 📎 [附錄二:AE/Citi/DBS/渣打]({{ '/appendix/hk-overseas-credit-cards-2025-report.html' | relative_url }}) | 里數卡詳細研究 |
 | 📎 [附錄三:支付寶/微信/虛銀/里數估值]({{ '/appendix/final-report-alipay-wechat-digital-banks-miles-value.html' | relative_url }}) | 跨境支付實務 |

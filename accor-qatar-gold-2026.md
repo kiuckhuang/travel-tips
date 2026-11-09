@@ -13,7 +13,8 @@ title: 雅高白金→卡塔爾金卡「一飛升金」2026 懶人包
 - 雅高×卡航**雙向匹配**：🥇 ALL 金卡 → QR 銀卡｜💎 **ALL 白金 → QR 金卡**（= **寰宇一家藍寶石**）；舊制 ALL 鑽石 → QR 白金 **2026 年起已絕版**（條款移除配額）
 - **一飛升金**：ALL 白金生效 → 關聯兩個賬戶 → 搭**一次卡航實際營運嘅現金票**航班（票號 157 開頭）→ 自動升 QR 金卡，**有效期 12 個月**，仲送 40 Qcredits
 - 2026 年金卡配額 **3,100 個**（逐年遞增：2022 年 1,600 → 2024 年 2,300 → 2025 年 2,600 → 2026 年 3,100），**官方唔公佈用量**；9 月起進入純消耗期，用完即止（配額刷新已由每年 9 月改做**次年 1 月**）
-- 實測最平路線：**胡志明⇄金邊來回約 ¥800–1,100**，柬埔寨免簽（填入境表）；有 9 月 3 日當日往返成功實例
+- 實測最平路線：**胡志明（SGN）⇄ 金邊德崇機場（KTI）** QR 短段來回約 ¥800–1,100；**KTI 純轉機唔使柬埔寨簽證**；有 9 月 3 日當日往返成功實例
+- 🇭🇰 港深廣出發（11月9日增補）：**深圳冇 QR 航點**；香港直飛觸發＝**QR815 HKG 00:25→DOH 04:15**；廣州出發＝**QR875 CAN 00:55→DOH 04:35**（西九龍高鐵 48 分鐘上廣州，半夜機唔使請假）
 - 藍寶石核心權益：**寰宇一家航班商務艙休息室（可帶 1 人）**——實測入過國泰玉衡堂、胡志明 SASCO Lounge、金邊 Plaza Premium First；另有商務櫃檯值機、優先登機（Group 2）、額外行李額
 - 三大硬門檻：①要**現金票**（積分票唔得）②**票號必須 157**（第三方 OTA 出票可以，但改簽出嚟變咗第 180 票號就白飛）③**登機前雅高白金必須已經到賬**
 - ⏰ 時間緊迫：關聯抽獎活動（8-3 至 9-10）已截止，但**關聯同升金本身仲開住**；10 月初仲有成功帖。2027 年約滿後會唔會續約，冇人知——想攞就趁 2026 年
@@ -68,9 +69,46 @@ title: 雅高白金→卡塔爾金卡「一飛升金」2026 懶人包
 
 ### 最平實測路線（2026 年 8–9 月社區實例）
 
-- **胡志明（SGN）⇄ 金邊（PNH）來回**：約 **¥800–1,100**，中段轉機順便入兩間商務 lounge（SGN SASCO、PNH Plaza Premium First）
-- 柬埔寨**免簽**（填入境申請表）；有 9 月 3 日香港出發**當日往返**成功實例（國泰出港＋卡航中段＋當晚回港）
+- **胡志明（SGN）⇄ 金邊德崇機場（KTI，2025 年 7 月啟用取代舊 PNH）** QR 短段：來回約 **¥800–1,100**
+- 9 月 3 日香港出發**當日往返**成功實例：**國泰出港（HKG→SGN）＋卡航中段（SGN→KTI）＋當晚國泰由 KTI 返港**——值機時卡航登機牌已顯示 Group 2（金卡）
+- 轉機順便入兩間商務 lounge：SGN SASCO Business Lounge、KTI Plaza Premium Lounge
+- 證件：SGN 要入境越南（HK 護照 e-visa US$25，3–5 工作日）；**KTI 純轉機唔使柬埔寨簽證**
 - 10 月初仲有東南亞順路成功帖
+
+---
+
+## 🇭🇰 港／深／廣出發實戰（2026-11-09 增補）
+
+### 觸發航班點揀（由香港日常住地出發）
+
+| 方案 | 航班 | 時間 | 成本估算* | 適合 |
+|---|---|---|---|---|
+| ① 順路歐洲／中東 | 任何 QR 現金票（如 HKG→DOH→歐洲） | — | 本來就要使嘅錢 | ✅ 本來有計劃出遠門＝零額外成本 |
+| ② 香港直飛紅眼 | **QR815 HKG 00:25 → DOH 04:15**（8h50m） | 通宵機，唔使請假 | 單程約 HK$1,800–3,000 | 想最簡單；之後多哈轉機玩中東／歐洲 |
+| ③ 廣州直飛紅眼 | **QR875 CAN 00:55 → DOH 04:35**（8h40m，777-300ER，T2） | 高鐵上去，半夜起飛 | 單程約 ¥2,000–3,500＋高鐵 HK$215 | ex-CAN 票價有時平過 ex-HKG |
+| ④ SGN⇄KTI 一日遊 | CX/HX 朝早去＋**QR 短段（約 ¥400–550/段）**＋夜機返 | 朝出晚歸，一日搞掂 | 全程約 HK$2,000–2,600＋越簽 US$25 | 💰 最平；順便食碗越南河 |
+
+*價格浮動，落單前以 QR 官網／Trip.com 實時報價為準；QR 一段式單程有時比來回貴，記得兩邊格價。
+
+### 廣州（CAN）出發實戰
+
+1. **香港西九龍 → 廣州南**高鐵 48 分鐘（二等約 HK$215），傍晚出發都得
+2. 廣州南 → CAN 機場：地鐵 2 號線直達（約 45 分鐘）或的士約 ¥120–150
+3. QR875 **00:55** 起飛 → 多哈 **04:35**——朝早到埗，即日可以轉機去歐洲，或者喺多哈玩一日再 QR874（01:45 起飛）返程
+4. 證件：HK 護照＋回鄉證由大陸出境冇問題；行李唔直掛（分開票），預鬆轉機時間
+5. 落單：QR 中國官網／App 一樣出 157 票號；認住 **QR 實際營運**（代碼共享 CZ711/BA7693 等唔算）
+
+### 深圳（SZX）？
+
+- **卡塔爾航空冇深圳航點**——2026 年 QR 中國大陸航點：北京（PKX）、上海（PVG）、廣州（CAN）、成都（TFU）、杭州（HGH）、重慶（CKG）（後三者 2026-05-16 起恢復）
+- SZX 唯一用處：做**去胡志明嘅廉航出發點**（個別航班要查當日有冇），或者搭高鐵／跨境巴士經廣州轉 QR——唔可以直接觸發一飛升金
+
+### 一日遊（方案④）兩種行法
+
+- **行法 A（社區實測同款）**：HKG→SGN（國泰朝早，入境越南用 e-visa）→ **QR SGN→KTI**（觸發升金）→ KTI 純轉機（**唔使柬簽**）→ 國泰 KTI→HKG 夜機返
+- **行法 B**：HKG→KTI（國泰直航 2h35m，推廣價約 US$130 起）→ **QR KTI→SGN**（觸發）→ SGN 入境（e-visa）→ 夜機返港
+- 兩種都要**越南 e-visa**；KTI 段唔入境柬埔寨就完全唔使柬簽
+- QR 短段兩個方向都要喺 QR 官網查當日有冇位（tag 航線方向受 DOH 主線編排影響）
 
 ---
 
@@ -119,6 +157,9 @@ title: 雅高白金→卡塔爾金卡「一飛升金」2026 懶人包
 - Vocus〈雅高×卡達航空 一飛升金「雙紀錄實戰版」〉：[vocus.cc/article/6959d25cfd89780001340b00](https://vocus.cc/article/6959d25cfd89780001340b00)
 - StatusKart〈Accor to Qatar Airways Status Match (2026)〉（映射表）：[statuskart.com/status-match/qatar-privilege-club/from/accor-all/](https://statuskart.com/status-match/qatar-privilege-club/from/accor-all/)
 - Travel-dealz〈Qatar Privilege Club Status Match Challenge〉：[travel-dealz.com/deal/status-challenge-accor-qatar/](https://travel-dealz.com/deal/status-challenge-accor-qatar/)
+- 航班時刻（11月9日查證）：QR815 [HKG 00:25→DOH 04:15（Planemapper）](https://www.planemapper.com/flights/QR815)｜QR875 [CAN 00:55→DOH 04:35（Aviability）](https://aviability.com/en/flight/qr875-qatar-airways/can-doh)｜QR874 [DOH 01:45→CAN（Flightera）](https://www.flightera.net/en/flight/Qatar+Airways-Doha-Guangzhou/QR874)
+- QR 中國航點一覽（FlightConnections，2026-10）：[flightconnections.com 卡塔爾航空航線圖](https://www.flightconnections.com/cn/%E8%88%AA%E7%BA%BF%E5%9B%BE-%E5%8D%A1%E5%A1%94%E5%B0%94%E8%88%AA%E7%A9%BA-qr)；杭/渝/蓉 2026-05-16 起恢復（[騰訊新聞](https://news.qq.com/rain/a/20260403A040CL00)）
+- 香港⇄金邊（KTI）直航：[國泰航空官方頁](https://flights.cathaypacific.com/destinations/en_HK/flights-from-hong-kong-to-phnom-penh)（另有 Cambodia Airways／Air Cambodia，每日最多 3 班）
 
 ---
 
